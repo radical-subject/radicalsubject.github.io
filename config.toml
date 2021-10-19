@@ -75,5 +75,5 @@ enable_post_view_navigation = true
 # Defaults to false.
 use_full_hack_font = true
 
-favicon = "/coding_girl.png.png"
+favicon = "/coding_girl_128x128.png"
 favicon_mimetype = "image/png"
