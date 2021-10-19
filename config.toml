@@ -1,6 +1,6 @@
 # The URL the site will be built for
 base_url = "https://radicalsubject.github.io"
-title = "I hate reality"
+title = "A Certain Scientific Impostor"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -30,11 +30,11 @@ smart_punctuation = true
 [extra]
 # Put all your custom variables here
 
-logo_text = "I hate reality"
-author = "Maybe Waffle"
+logo_text = "Scientific Impostor"
+author = "radical_subject"
 
 # TODO: make footer less weird
-copyright_html = "<div class=\"copyright\"><span>© 2021 Maybe Waffle</span><span class=\"copyright-theme\"><span class=\"copyright-theme-sep\">:: </span>Theme is based on <a href=\"https://github.com/pawroman/zola-theme-terminimal/\">Terminimal</a></span><span class=\"copyright-theme-sep\">:: </span><a href=\"/rss.xml\">rss</a></div>"
+copyright_html = "<div class=\"copyright\"><span>© 2021 radical_subject (forked from Waffle Lapkin)</span><span class=\"copyright-theme\"><span class=\"copyright-theme-sep\">:: </span>Theme is based on <a href=\"https://github.com/pawroman/zola-theme-terminimal/\">Terminimal</a></span><span class=\"copyright-theme-sep\">:: </span><a href=\"/rss.xml\">rss</a></div>"
 
 # One of: blue, green, orange, pink, red.
 # Defaults to blue. 
@@ -52,13 +52,13 @@ menu_items = [
     
     
     # # May be desired in future
-    #{name = "archive", url = "$BASE_URL/archive"},
+    {name = "archive", url = "$BASE_URL/archive"},
 
     {name = "about", url = "$BASE_URL/about"},
     
     {name = "tags", url = "$BASE_URL/tags"},
 
-    {name = "source", url = "https://github.com/radicalsubject/blog", newtab = true},
+    {name = "source", url = "https://t.me/scientific_impostor", newtab = true},
 ]
 
 # Whether to show links to earlier and later posts
@@ -75,5 +75,5 @@ enable_post_view_navigation = true
 # Defaults to false.
 use_full_hack_font = true
 
-favicon = "/you_cant_escape_from_reality_128x128.png"
+favicon = "/coding_girl.png.png"
 favicon_mimetype = "image/png"

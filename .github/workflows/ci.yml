@@ -15,12 +15,7 @@ jobs:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
     - uses: actions/checkout@v2
-    # TODO
-    # - name: Lint
-    #   uses: avto-dev/markdown-lint@v1
-    #   with:
-    #     args: '.'
-    #     config: '.markdownlint.json'
+
     - name: Install Zola
       run: curl -L ${BASE_URL}/${VERS}/zola-${VERS}-${ARCH}.tar.gz | tar -xz
     - run: ./zola --version
