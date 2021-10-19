@@ -6,23 +6,25 @@ path = "about"
 hide_page_meta = true
 +++
 
-Hi \0
+Hi!
 
-On the internet I'm mostly known as \[Maybe\] Waffle \[Lapkin\]. 
-I'm fine with most pronouns, though I'm used to he/him. 
-
-I'm `rust` evangelist and the best desktop app \[citation needed\]. 
-I mostly write smol rust libraries, though I also maintain [`teloxide`] and sometimes contribute to [`rust-lang/rust`].
-
+I'm a chemist and `leading research associate` in small but proud pharmaceutical company. 
+Computer sciences are my passion, though IT is not really connected with my work. 
+Previously i started to apply my coding skills to chemoinformatics, ML applications in chemistry, docking and quantum mechanical calculations, so i hope for some convergence of my skils in all of my expertise areas.
+<!-- 
 [`rust-lang/rust`]: https://github.com/rust-lang/rust
-[`teloxide`]: https://github.com/teloxide
+[`teloxide`]: https://github.com/teloxide -->
 
-I also like taking photographs, mostly of plants and sunsets.
+I also like extreme sports and music.
+Time management is done by Liubischev system.
+Knowledge base is maintained by Zettelkasten method in great [obsidian.md]
+
+[obsidian.md]: https://obsidian.md/
 
 {{ 
   image(
       img="2021-08-07_16-47-42.jpg", 
-      alt="A dark photo of a money tree (also kmown as Crassula ovata). The background is very blurry.", 
+      alt="fluorescence of some organic photoredox catalists i worked with in previous lab.", 
       style="border-radius: 8px; width: 80%;"
   )
 }}
@@ -30,14 +32,11 @@ I also like taking photographs, mostly of plants and sunsets.
 You can find me on:
 
 - Telegram
-  - My (russian) channel: [@ihatereality]
-  - Channel with my photos: [@strawberry_memories]
-- Twitter: [@maybewaffle]
-- GitHub: [@WaffleLapkin]
+  - My contact: [@radical_subject]
+  - Channel with my notes: [@scientific_impostor]
+- GitHub: [@radicalsubject]
 
-[@ihatereality]: https://t.me/ihatereality
-[@strawberry_memories]: https://t.me/strawberry_memories
-[@maybewaffle]: https://twitter.com/maybewaffle
-[@WaffleLapkin]: https://github.com/WaffleLapkin
+[@radical_subject]: https://t.me/radical_subject
+[@scientific_impostor]: https://t.me/scientific_impostor
 
 bye \0
