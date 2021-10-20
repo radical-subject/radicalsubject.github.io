@@ -13,12 +13,12 @@ PUBLICATIONS
   image(
       img="jo9b01649_0013.gif", 
       alt="abstract", 
-      style="border-radius: 8px; width: 80%; border: 3px solid white; padding: 10px;"
+      style="border-radius: 8px; width: 80%; border: 3px solid white"
 
   )
 }}
 
-[DOI]: http://dx.doi.org/10.1021/acs.joc.9b01649
+[`[DOI]`]: http://dx.doi.org/10.1021/acs.joc.9b01649
  
 2.	Scherbinina S.I., Fedorov O. V., Levin, V. V., Kokorekin V. A., Struchkova M. I., and Dilman, A. D.; Synthesis of 3-Fluoropyridines via Photoredox-Mediated Coupling of α,α- Difluoro-β- iodoketones with Silyl Enol Ethers.; J. Org. Chem., 2017, 82 (24), 12967–12974; [DOI]
  
