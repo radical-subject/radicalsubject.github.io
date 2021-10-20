@@ -1,7 +1,7 @@
 +++
 title = "202110131334 - 353 - способы создания дисульфидной связи - дифенилсульфоксид"
-date = 202110131334
-updated = 202110202304
+date = 2021-08-20
+updated = 2021-08-25
 
 [taxonomies] 
 tags = ["orgchem", "peptide_synthesis", "protecting_groups"]
