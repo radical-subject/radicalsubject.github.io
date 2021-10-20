@@ -7,7 +7,7 @@ hide_page_meta = true
 +++
 
 PUBLICATIONS
-1.	Fedorov, O. V., Scherbinina S.I., Levin, V. V., and Dilman, A. D.; Light-mediated dual phosphine-/copper-catalyzed atom-transfer radical addition reaction.; J. Org. Chem., 2019, 84(17), 11068–11079; [`[DOI]`] [`[PDF]`]()
+1.	Fedorov, O. V., Scherbinina S.I., Levin, V. V., and Dilman, A. D.; Light-mediated dual phosphine-/copper-catalyzed atom-transfer radical addition reaction.; J. Org. Chem., 2019, 84(17), 11068–11079; [`[DOI]`] [`[PDF]`](fedorov2019.pdf)
 [DOI]: http://dx.doi.org/10.1021/acs.joc.9b01649
  
 2.	Scherbinina S.I., Fedorov O. V., Levin, V. V., Kokorekin V. A., Struchkova M. I., and Dilman, A. D.; Synthesis of 3-Fluoropyridines via Photoredox-Mediated Coupling of α,α- Difluoro-β- iodoketones with Silyl Enol Ethers.; J. Org. Chem., 2017, 82 (24), 12967–12974; [DOI]
