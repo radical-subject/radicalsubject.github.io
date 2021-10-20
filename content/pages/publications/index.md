@@ -1,6 +1,6 @@
 +++
-title = "About me"
-path = "about"
+title = "Publications"
+path = "publications"
 
 [extra]
 hide_page_meta = true
