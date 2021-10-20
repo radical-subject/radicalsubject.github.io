@@ -6,18 +6,23 @@ path = "about"
 hide_page_meta = true
 +++
 
-Hi!
+Hello!
 
-I'm a chemist and `leading research associate` in small but proud pharmaceutical company. 
+I'm `PhD in organic chemistry` and work as `leading research associate` in Moscow-based full cycle pharmaceutical company `Pharm-Sintez`. 
+
+
 Computer sciences are my passion, though IT is not really connected with my work. 
-Previously i started to apply my coding skills to chemoinformatics, ML applications in chemistry, docking and quantum mechanical calculations, so i hope for some convergence of my skils in all of my expertise areas.
+Previously i started to apply my coding skills to `chemoinformatics`, `ML` applications in chemistry, `docking` and `quantum mechanical calculations`, so i hope for some convergence of my skils in all of my expertise areas.
 
 
-I also like extreme sports and music.\n
-Time management is done by Liubischev system.\n 
-Knowledge base is maintained by Zettelkasten method in great [obsidian.md]
+I also like extreme sports and music.
+
+Time management is done by [`Liubischev system`].
+
+Knowledge base is maintained by Zettelkasten method in great [`obsidian.md`]
 
 [obsidian.md]: https://obsidian.md/
+[`Liubischev system`]: https://ru.wikipedia.org/wiki/%D0%9B%D1%8E%D0%B1%D0%B8%D1%89%D0%B5%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87#%D0%A2%D0%B2%D0%BE%D1%80%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE
 
 {{ 
   image(
@@ -41,4 +46,4 @@ You can find me on:
 [@scientific_impostor]: https://t.me/scientific_impostor
 [@radicalsubject]: https://github.com/radicalsubject
 
-bye \0
+Do not hesitate to contact me. Cheers!
