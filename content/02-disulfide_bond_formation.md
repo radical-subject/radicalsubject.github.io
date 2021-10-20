@@ -37,9 +37,9 @@ links:
 
 Более технологичный и удобный метод окисления в дисульфид пептидов с Acm зацитами на сере - использует сульфоксиды. Даже ДМСО может так окислить до дисульфида, но дает много побочек, зато дифенилсульфоксид - очень мягкий и очень селективный. 
 
-Akaji, K., Tatsumi, T., Yoshida, M., Kimura, T., Fujiwara, Y., & Kiso, Y. (1991). Synthesis of cystine-peptide by a new disulphide bond-forming reaction using the siiyl chloride–sulphoxide system. J. Chem. Soc., Chem. Commun., (3), 167–168. doi:10.1039/C39910000167 [`[link]`] [`[pdf]`](static/akaji1991.pdf)
+Akaji, K., Tatsumi, T., Yoshida, M., Kimura, T., Fujiwara, Y., & Kiso, Y. (1991). Synthesis of cystine-peptide by a new disulphide bond-forming reaction using the siiyl chloride–sulphoxide system. J. Chem. Soc., Chem. Commun., (3), 167–168. doi:10.1039/C39910000167 [link] [`[pdf]`](static/akaji1991.pdf)
 
-[`[link]`]: https://doi.org/10.1039/C39910000167
+[link]: https://doi.org/10.1039/C39910000167
 
 ---
 
