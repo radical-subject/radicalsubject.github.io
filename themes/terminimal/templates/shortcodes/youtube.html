@@ -1,4 +1,4 @@
-<iframe
+<div style='margin: auto; width: 50%; border: 3px solid green; padding: 10px;'><iframe
     src="https://www.youtube.com/embed/{{id}}{% if autoplay %}?autoplay=1{% endif %}"
     webkitallowfullscreen
     mozallowfullscreen
@@ -6,3 +6,4 @@
     class="{% if position %}{{ position }}{% else -%} center {%- endif %}" 
     {%- if style %} style="{{ style | safe }}" {%- endif %}>
 </iframe>
+</div>
