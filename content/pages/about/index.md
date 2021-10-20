@@ -16,6 +16,12 @@ Previously i started to apply my coding skills to `chemoinformatics`, `ML` appli
 
 
 I also like extreme sports and music.
+Check out or trip to Iran in 2015-2016:
+{{
+  youtube(
+    id="X_cl__uvtGM"
+  )
+}}
 
 Time management is done by [`Liubischev system`].
 
