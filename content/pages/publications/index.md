@@ -7,7 +7,15 @@ hide_page_meta = true
 +++
 
 PUBLICATIONS
-1.	Fedorov, O. V., Scherbinina S.I., Levin, V. V., and Dilman, A. D.; Light-mediated dual phosphine-/copper-catalyzed atom-transfer radical addition reaction.; J. Org. Chem., 2019, 84(17), 11068–11079; [DOI] [`[PDF]`](fedorov2019.pdf)
+1.	Fedorov, O. V., Scherbinina S.I., Levin, V. V., and Dilman, A. D.; Light-mediated dual phosphine-/copper-catalyzed atom-transfer radical addition reaction.; J. Org. Chem., 2019, 84(17), 11068–11079; [`[DOI]`] [`[PDF]`](fedorov2019.pdf)
+
+{{ 
+  image(
+      img="jo9b01649_0013.gif", 
+      alt="abstract", 
+      style="border-radius: 8px; width: 80%;"
+  )
+}}
 
 [DOI]: http://dx.doi.org/10.1021/acs.joc.9b01649
  
