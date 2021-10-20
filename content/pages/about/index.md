@@ -20,6 +20,7 @@ Check out or trip to Iran in 2015-2016:
 {{
   youtube(
     id="X_cl__uvtGM"
+    style="border-radius: 8px; width: 80%;"
   )
 }}
 
