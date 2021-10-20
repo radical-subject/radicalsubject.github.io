@@ -18,7 +18,7 @@ links:
 
 >The reagents oxidatively cleave almost all types of S-protecting groups including those which are not oxidatively cleaved by iodine. [^1]
 
-[^1]: Houben J., Weyl T. - Houben-Weyl Methods in Organic Chemistry_ Synthesis of Peptides. volume e-22b (1999).djvu [[Houben J., Weyl T. - Houben-Weyl Methods in Organic Chemistry_ Synthesis of Peptides. volume e-22b (1999).djvu | book file]],  p. 110
+
 
 К тому же раз его делают много и промышленно - значит метод, которым они пользуются хорошо масштабируем (в том числе по концентрациям - не требует большого разбавления), и не дает межмолекулярных и прочих побочек.
 ![[Pasted image 20211020221515.png]]
@@ -38,3 +38,5 @@ links:
 ![[202104220000 - 103 - синтез окситоцина Данишефский - total synthesis#^4d53d0]]
 
 То же самое происходит при снятии защит с атозибана - ~10% окисленного просто при стоянии на воздухе получил Ивченко. 
+
+[^1]:Houben J., Weyl T.-Houben-Weyl Methods in Organic Chemistry_ Synthesis of Peptides. volume e-22b (1999).djvu [[Houben J., Weyl T. - Houben-Weyl Methods in Organic Chemistry_ Synthesis of Peptides. volume e-22b (1999).djvu | book file]],  p. 110
