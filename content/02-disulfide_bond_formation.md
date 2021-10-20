@@ -1,5 +1,5 @@
 +++
-title = "202110131334 - 353 - способы создания дисульфидной связи - дифенилсульфоксид"
+title = "Cпособы создания дисульфидной связи: дифенилсульфоксид"
 date = 2021-08-20
 updated = 2021-08-25
 
@@ -39,4 +39,5 @@ links:
 
 То же самое происходит при снятии защит с атозибана - ~10% окисленного просто при стоянии на воздухе получил Ивченко. 
 
-[^1]:Houben J., Weyl T.-Houben-Weyl Methods in Organic Chemistry_ Synthesis of Peptides. volume e-22b (1999).djvu [[Houben J., Weyl T. - Houben-Weyl Methods in Organic Chemistry_ Synthesis of Peptides. volume e-22b (1999).djvu | book file]],  p. 110
+[^1]:Houben J., Weyl T.-Houben-Weyl Methods in Organic Chemistry_ Synthesis of Peptides. volume e-22b (1999).djvu 
+[[Houben J., Weyl T. - Houben-Weyl Methods in Organic Chemistry_ Synthesis of Peptides. volume e-22b (1999).djvu | book file]],  p. 110
