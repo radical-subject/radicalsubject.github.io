@@ -34,6 +34,9 @@ You can find me on:
   - Channel with my notes: [@scientific_impostor]
 - GitHub: [@radicalsubject]
 
+---
+ Check out my [CV](CV_Fedorov_OV_2021.01.24.ENG_long.doc)
+
 [@radical_subject]: https://t.me/radical_subject
 [@scientific_impostor]: https://t.me/scientific_impostor
 [@radicalsubject]: https://github.com/radicalsubject
