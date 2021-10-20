@@ -1,10 +1,8 @@
-<div {% if class %}class="{{class}}"{% endif %}>
-    <iframe
-        src="https://www.youtube.com/embed/{{id}}{% if autoplay %}?autoplay=1{% endif %}"
-        webkitallowfullscreen
-        mozallowfullscreen
-        allowfullscreen
-        class="{% if position %}{{ position }}{% else -%} center {%- endif %}" 
-        {%- if style %} style="{{ style | safe }}" {%- endif %}>
-    </iframe>
-</div>
+<iframe
+    src="https://www.youtube.com/embed/{{id}}{% if autoplay %}?autoplay=1{% endif %}"
+    webkitallowfullscreen
+    mozallowfullscreen
+    allowfullscreen
+    class="{% if position %}{{ position }}{% else -%} center {%- endif %}" 
+    {%- if style %} style="{{ style | safe }}" {%- endif %}>
+</iframe>
