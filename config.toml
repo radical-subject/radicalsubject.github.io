@@ -55,6 +55,8 @@ menu_items = [
     #{name = "archive", url = "$BASE_URL/archive"},
 
     {name = "about", url = "$BASE_URL/about"},
+
+    {name = "publications", url = "$BASE_URL/publications"},
     
     {name = "tags", url = "$BASE_URL/tags"},
 
