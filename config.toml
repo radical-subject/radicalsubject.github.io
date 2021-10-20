@@ -48,11 +48,10 @@ background_color = "pink"
 
 menu_items = [
     # $BASE_URL is going to be substituted by base_url from configuration
-    #{name = "blog", url = "$BASE_URL"},
-    
-    
+    {name = "blog", url = "$BASE_URL"},
+        
     # # May be desired in future
-    #{name = "archive", url = "$BASE_URL/archive"},
+    {name = "archive", url = "$BASE_URL/archive"},
 
     {name = "about", url = "$BASE_URL/about"},
 
