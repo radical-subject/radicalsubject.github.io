@@ -13,7 +13,8 @@ PUBLICATIONS
   image(
       img="jo9b01649_0013.gif", 
       alt="abstract", 
-      style="border-radius: 8px; width: 80%;"
+      style="border-radius: 8px; width: 80%; border: 3px solid white; padding: 10px;"
+
   )
 }}
 
