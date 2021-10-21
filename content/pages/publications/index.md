@@ -1,12 +1,12 @@
 +++
-title = "Publications"
+title = "PUBLICATIONS"
 path = "publications"
 
 [extra]
 hide_page_meta = true
 +++
 
-PUBLICATIONS
+
 1. Fedorov, O. V., Scherbinina S.I., Levin, V. V., and Dilman, A. D.; Light-mediated dual phosphine-/copper-catalyzed atom-transfer radical addition reaction.; J. Org. Chem., 2019, 84(17), 11068–11079; [`[DOI]`](http://dx.doi.org/10.1021/acs.joc.9b01649) [`[PDF]`](fedorov2019.pdf) {{image(img="jo9b01649_0013.gif", alt="abstract", style="background: white; border-radius: 8px; width: 80%; border: 3px solid white")}}
 2. Scherbinina S.I., Fedorov O. V., Levin, V. V., Kokorekin V. A., Struchkova M. I., and Dilman, A. D.; Synthesis of 3-Fluoropyridines via Photoredox-Mediated Coupling of α,α- Difluoro-β- iodoketones with Silyl Enol Ethers.; J. Org. Chem., 2017, 82 (24), 12967–12974; [`[DOI]`](https://doi.org/10.1021/acs.joc.7b02467) [`[PDF]`](scherbinina2017.pdf) {{image(img="py.png", alt="abstract", style="background: white; border-radius: 8px; width: 80%; border: 3px solid white")}}
 3. Fedorov, O. V.; Kosobokov, M. D.; Levin, V. V.; Struchkova, M. I.; Dilman, A. D.; Halogenative Difluorohomologation of Ketones.; J. Org. Chem. 2015, 80, 5870–5876; [`[DOI]`](https://doi.org/10.1021/acs.joc.5b00904) [`[PDF]`](fedorov2015.pdf) {{image(img="ket.png", alt="abstract", style="border-radius: 8px; width: 80%; border: 3px solid white")}}
