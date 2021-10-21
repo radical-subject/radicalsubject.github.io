@@ -23,7 +23,7 @@
   {% endif %}
 
   {% set new_image = resize_image(path=path, width=1280, height=1280, op="fit", format=format, quality=quality) %}
-  {% set_global src = new_image.static_path | trim_start_matches(pat="static") %}  
+  {% set_global src = new_image.static_path | trim_start_matches(path="static") %}  
 {% elif url %}
   {% set_global src = url %}
   {% if full is not defined %}

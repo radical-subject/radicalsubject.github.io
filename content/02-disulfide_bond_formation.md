@@ -9,18 +9,17 @@ tags = ["orgchem", "peptide_synthesis", "protecting_groups"]
 
 topic: 
 tags: #orgchem #peptide_synthesis #protecting_groups 
+
 links:
+
 [[202109232322 - 325 - acm-защита I2 deprotection]]
+
 [[202104220000 - 103 - синтез окситоцина Данишефский - total synthesis]]
 
 ---
 Генериум делает биотехнологическими методами линейный инсулин, и потом делает стадию сшивки дисульфидными мостиками - а в инсулине дисульфидных мостиков 3 штуки. Последовательно сначала сшивают Йодом, затем дифенилсульфоксидом - потому что 
 
-{% callout() %}
-The reagents oxidatively cleave almost all types of S-protecting groups including those which are not oxidatively cleaved by iodine. [^1]
-{% end %}
-
-
+>The reagents oxidatively cleave almost all types of S-protecting groups including those which are not oxidatively cleaved by iodine. [^1]
 
 К тому же раз его делают много и промышленно - значит метод, которым они пользуются хорошо масштабируем (в том числе по концентрациям - не требует большого разбавления), и не дает межмолекулярных и прочих побочек.
 
@@ -51,7 +50,7 @@ The reagents oxidatively cleave almost all types of S-protecting groups includin
 [^1]:Houben J., Weyl T.-Houben-Weyl Methods in Organic Chemistry_ Synthesis of Peptides. volume e-22b (1999).djvu 
 [[Houben J., Weyl T. - Houben-Weyl Methods in Organic Chemistry_ Synthesis of Peptides. volume e-22b (1999).djvu | book file]],  p. 110
 
-[^2]: Akaji, K., Tatsumi, T., Yoshida, M., Kimura, T., Fujiwara, Y., & Kiso, Y. (1991). Synthesis of cystine-peptide by a new disulphide bond-forming reaction using the siiyl chloride–sulphoxide system. J. Chem. Soc., Chem. Commun., (3), 167–168. [DOI] [`[pdf]`](static/akaji1991.pdf)
+[^2]: Akaji, K., Tatsumi, T., Yoshida, M., Kimura, T., Fujiwara, Y., & Kiso, Y. (1991). Synthesis of cystine-peptide by a new disulphide bond-forming reaction using the siiyl chloride–sulphoxide system. J. Chem. Soc., Chem. Commun., (3), 167–168. [DOI] [`[pdf]`](akaji1991.pdf)
 
 [link]: https://doi.org/10.1039/C39910000167
 
