@@ -12,10 +12,11 @@
             const backlink = document.createElement('a');
             backlink.href = '#' + refhash;
             backlink.className = 'footnote-backlink';
-            backlink.innerText = '↩';
+            backlink.innerText = ' ↩';
             const paras = footnote.children;
             const lastPara = paras[paras.length - 1];
             lastPara.appendChild(backlink);
+            console.log(lastPara)
         }
     });
 </script>
