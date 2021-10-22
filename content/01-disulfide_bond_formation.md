@@ -49,17 +49,18 @@ links:
 
 ---
 
-свободные от защитных групп цистеины могут образовать дисульфидный мостик прямо на воздухе -- таким образом Данишефский синтезировал окситоцин в 2012 году  [^3]
+Стоит упомянуть, что свободные от защитных групп цистеины могут образовать дисульфидный мостик окисляясь прямо на воздухе -- таким образом Данишефский синтезировал окситоцин в 2012 году  [^3]
 
-То же самое происходит при снятии защитных групп в синтезе атозибана (если использовать тритильные защиты, и снимать их вместе с Boc- на предпоследней стадии синтеза, как в патенте) - до ~10% окисленного циклического атозибана можно получить просто при стоянии реакционной смеси на воздухе.
+То же самое происходит, например, при снятии защитных групп в синтезе `атозибана` (если использовать тритильные защиты, и снимать их вместе с Boc- на предпоследней стадии синтеза, как в патенте [^4]) - до ~10% окисленного циклического атозибана можно получить просто при стоянии реакционной смеси на воздухе. Это никак не вредит, просто наблюдение, которое показалось мне любопытным.
 
 ---
 
-[^1]: Houben J., Weyl T.-Houben-Weyl Methods in Organic Chemistry_ Synthesis of Peptides. volume e-22b (1999).djvu 
-[`[pdf]`](literature/Houben-Weyl-e-22b(1999).djvu),  p. 110
+[^1]: Houben J., Weyl T.-Houben-Weyl Methods in Organic Chemistry_ Synthesis of Peptides. volume e-22b (1999),  p. 110 [`[pdf]`](literature/Houben-Weyl-e-22b(1999).djvu)
 
 [^2]: Akaji, K., Tatsumi, T., Yoshida, M., Kimura, T., Fujiwara, Y., & Kiso, Y. (1991). Synthesis of cystine-peptide by a new disulphide bond-forming reaction using the siiyl chloride–sulphoxide system. J. Chem. Soc., Chem. Commun., 167–168. [DOI] [`[pdf]`](literature/akaji1991.pdf)
 
 [link]: https://doi.org/10.1039/C39910000167
 
 [^3]: Wang, T., & Danishefsky, S. J. (2012). Revisiting Oxytocin through the Medium of Isonitriles. Journal of the American Chemical Society, 134(32), 13244–13247. [DOI](https://doi.org/10.1021/ja3063452)
+
+[^4]: Method for liquid phase preparation of atosiban, [CN105713073A](https://patents.google.com/patent/CN105713073A/en)
