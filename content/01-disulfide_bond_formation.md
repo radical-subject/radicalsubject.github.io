@@ -1,22 +1,11 @@
 +++
 title = "Cпособы создания дисульфидной связи: дифенилсульфоксид"
-date = 2021-08-20
-updated = 2021-08-25
+date = 2021-10-22
+updated = 2021-10-22
 
 [taxonomies] 
 tags = ["orgchem", "peptide_synthesis", "protecting_groups"]
 +++
-
-topic: 
-tags: #orgchem #peptide_synthesis #protecting_groups 
-
-links:
-
-[[202109232322 - 325 - acm-защита I2 deprotection]]
-
-[[202104220000 - 103 - синтез окситоцина Данишефский - total synthesis]]
-
----
 
 {{
   footnote()
@@ -58,6 +47,8 @@ links:
 То же самое происходит, например, при снятии защитных групп в синтезе `атозибана` (если использовать тритильные защиты, и снимать их вместе с Boc- на предпоследней стадии синтеза, как в патенте [^4]) - до ~10% окисленного циклического атозибана можно получить просто при стоянии реакционной смеси на воздухе. Это никак не вредит, просто наблюдение, которое показалось мне любопытным.
 
 ---
+
+## FOOTNOTES
 
 [^1]: Houben J., Weyl T. - Houben-Weyl Methods in Organic Chemistry, Synthesis of Peptides. volume e-22b (1999),  p. 110; [`[PDF]`](literature/Houben-Weyl-e-22b(1999).djvu) 
 
