@@ -16,11 +16,10 @@
             const paras = footnote.children;
             const lastPara = paras[paras.length - 1];
             lastPara.appendChild(backlink);
-            console.log(paras)
             footnote.removeChild(paras[0]);
             var text_to_change = paras[0].childNodes[0];
             text_to_change.nodeValue = '[' + footnote.id + ']' + ': ' + text_to_change.nodeValue;
-            
+
         }
     });
 </script>
