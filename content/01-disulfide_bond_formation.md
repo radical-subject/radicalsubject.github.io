@@ -29,7 +29,7 @@ links:
 Последовательно сначала сшивают Йодом, затем дифенилсульфоксидом. Про последний метод я как раз хочу рассказать.
 
 
-Итак, такая последовательная селективная сшивка при производстве инсулина возможна, поскольку касательно метода окисления дифенилсульфоксидом в Hoben-Weyl написано следующее:
+Итак, такая последовательная селективная сшивка при производстве инсулина возможна, поскольку касательно метода окисления дифенилсульфоксидом в Houben-Weyl написано следующее:
 
 >The reagents oxidatively cleave almost all types of S-protecting groups including those which are not oxidatively cleaved by iodine. [^1]
 
@@ -51,7 +51,6 @@ links:
 Более технологичный и удобный метод окисления в дисульфид пептидов с Acm зацитами на сере - использует сульфоксиды. Даже ДМСО может так окислить до дисульфида, но дает много побочек, зато дифенилсульфоксид - очень мягкий и очень селективный. [^2]
 
 
-
 ---
 
 Стоит упомянуть, что свободные от защитных групп цистеины могут образовать дисульфидный мостик окисляясь прямо на воздухе -- таким образом Данишефский синтезировал окситоцин в 2012 году  [^3]
@@ -60,7 +59,7 @@ links:
 
 ---
 
-[^1]: Houben J., Weyl T.-Houben-Weyl Methods in Organic Chemistry_ Synthesis of Peptides. volume e-22b (1999),  p. 110; [`[PDF]`](literature/Houben-Weyl-e-22b(1999).djvu) 
+[^1]: Houben J., Weyl T. - Houben-Weyl Methods in Organic Chemistry, Synthesis of Peptides. volume e-22b (1999),  p. 110; [`[PDF]`](literature/Houben-Weyl-e-22b(1999).djvu) 
 
 [^2]: Akaji, K., Tatsumi, T., Yoshida, M., Kimura, T., Fujiwara, Y., & Kiso, Y. (1991). Synthesis of cystine-peptide by a new disulphide bond-forming reaction using the siiyl chloride–sulphoxide system. J. Chem. Soc., Chem. Commun., 167–168. [`[DOI]`](https://doi.org/10.1039/C39910000167) [`[PDF]`](literature/akaji1991.pdf) 
 
