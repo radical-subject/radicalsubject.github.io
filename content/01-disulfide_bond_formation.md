@@ -27,7 +27,7 @@ tags = ["orgchem", "peptide_synthesis", "protecting_groups"]
 {{ 
   image(
       img="Pasted image 20211020221515.png", 
-      alt="fluorescence of some organic photoredox catalists i worked with in previous lab.", 
+      alt="", 
       style="border-radius: 8px; width: 80%;"
   )
 }}
