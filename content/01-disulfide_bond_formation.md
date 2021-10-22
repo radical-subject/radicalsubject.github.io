@@ -55,8 +55,8 @@ links:
 
 ---
 
-[^1]:Houben J., Weyl T.-Houben-Weyl Methods in Organic Chemistry_ Synthesis of Peptides. volume e-22b (1999).djvu 
-[[Houben J., Weyl T. - Houben-Weyl Methods in Organic Chemistry_ Synthesis of Peptides. volume e-22b (1999).djvu | book file]],  p. 110
+[^1]: Houben J., Weyl T.-Houben-Weyl Methods in Organic Chemistry_ Synthesis of Peptides. volume e-22b (1999).djvu 
+[`[pdf]`](literature/Houben-Weyl-e-22b(1999).djvu),  p. 110
 
 [^2]: Akaji, K., Tatsumi, T., Yoshida, M., Kimura, T., Fujiwara, Y., & Kiso, Y. (1991). Synthesis of cystine-peptide by a new disulphide bond-forming reaction using the siiyl chloride–sulphoxide system. J. Chem. Soc., Chem. Commun., (3), 167–168. [DOI] [`[pdf]`](literature/akaji1991.pdf)
 
