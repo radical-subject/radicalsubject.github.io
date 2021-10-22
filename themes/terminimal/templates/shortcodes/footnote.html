@@ -16,8 +16,9 @@
             const paras = footnote.children;
             const lastPara = paras[paras.length - 1];
             lastPara.appendChild(backlink);
-            console.log(paras[0].childNodes)
+            console.log(paras[0].childNodes[0])
             paras.removeChild(paras[0])
+
         }
     });
 </script>
