@@ -20,7 +20,7 @@ tags = ["orgchem", "peptide_synthesis", "protecting_groups"]
 
 {{ 
   image(
-      img="insulin_structure.png", 
+      img="insulin_structure.PNG", 
       alt="", 
       style="border-radius: 8px; width: 90%;"
   )
