@@ -81,7 +81,7 @@ Eli Lilly and Company запустили rDNA (рекомбинантный) и�
 }}
 
 <span>
-<div class='width: 50px; margin: auto; border: 3px solid #73AD21;'>
+<div style='width: 50px; margin: auto; border: 3px solid #73AD21;'>
 {{
   image(
       img="Pastedimage20211029134735.tif", 
@@ -94,7 +94,7 @@ Eli Lilly and Company запустили rDNA (рекомбинантный) и�
 </div>
 </span>
 <span>
-<div class='width: 50px; margin: auto; border: 3px solid #73AD21;'>
+<div style='width: 50px; margin: auto; border: 3px solid #73AD21;'>
 {{
   image(
       img="Pastedimage20211029134735.tif", 
