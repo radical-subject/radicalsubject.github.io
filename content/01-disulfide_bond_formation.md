@@ -48,7 +48,6 @@ S-S связь в пептидных препаратах встречаются
 
 
 
-
 ## FOOTNOTES
 
 [^1]: Lau, J. L., & Dunn, M. K. (2018). Therapeutic peptides: Historical perspectives, current development trends, and future directions. Bioorganic & Medicinal Chemistry, 26(10), 2700–2707 [`[DOI]`](https://doi.org/10.1016/j.bmc.2017.06.052) [`[PDF]`](literature/lau2017.pdf)
