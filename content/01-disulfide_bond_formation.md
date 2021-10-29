@@ -80,16 +80,7 @@ Eli Lilly and Company запустили rDNA (рекомбинантный) и�
   )
 }}
 
-<span>
-{{
-  image(
-      img="Pastedimage20211029134735.tif", 
-      alt="Биосинтез инсулина в организме", 
-      style="border-radius: 8px; width: 50%;",
-      quality =100
-  )
-}}
-</span>
+
 <div class='width: 500px; margin: auto; border: 3px solid #73AD21;'>
 {{
   image(
@@ -101,6 +92,7 @@ Eli Lilly and Company запустили rDNA (рекомбинантный) и�
   )
 }}
 </div>
+
 <div class='width: 500px; margin: auto; border: 3px solid #73AD21;'>
 {{
   image(
