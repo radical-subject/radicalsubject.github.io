@@ -33,11 +33,11 @@
   {{ throw(message="Either `img` or `url` must be set") }}
 {% endif %}
 
-<a href="{{ full }}" target="_blank">
+<span><a href="{{ full }}" target="_blank">
   <img 
     src="{{ src }}" 
     alt="{{ alt }}"
     class="{% if position %}{{ position }}{% else -%} center {%- endif %}" 
     {%- if style %} style="{{ style | safe }}" {%- endif %} 
   />
-</a>
+</a></span>
