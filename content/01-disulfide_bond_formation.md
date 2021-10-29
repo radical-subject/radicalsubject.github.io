@@ -39,7 +39,7 @@ S-S связь в пептидных препаратах встречаются
   image(
       img="Pasted image 20211029012029.png", 
       alt="market share of peptide drugs", 
-      style="border-radius: 8px; width: 30%;"
+      style="border-radius: 8px; width: 90%;"
   )
 }}
 
@@ -65,7 +65,7 @@ Eli Lilly and Company запустили rDNA (рекомбинантный) и�
   image(
       img="Pastedimage20211029134735.tif", 
       alt="insulin biosynthesis", 
-      style="border-radius: 8px; width: 90%;"
+      style="border-radius: 8px; width: 30%;"
   )
 }}
 
