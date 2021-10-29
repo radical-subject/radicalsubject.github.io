@@ -96,6 +96,7 @@ Eli Lilly and Company запустили rDNA (рекомбинантный) и�
       img="Pastedimage20211029134735.tif", 
       alt="Биосинтез инсулина в организме", 
       style="border-radius: 8px; width: 50%;",
+      class="position: left",
       quality =100
   )
 }}
