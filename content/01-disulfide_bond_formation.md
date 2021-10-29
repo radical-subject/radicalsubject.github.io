@@ -80,7 +80,7 @@ Eli Lilly and Company запустили rDNA (рекомбинантный) и�
   image(
       img="Transformation-of-fusion-protein-into-insulin.png", 
       alt="Пайплайн производства рекомбинантного инсулина", 
-      style="border-radius: 8px; width: 95%;",
+      style="border-radius: 8px; width: 97%;",
       quality =100
   )
 }}
