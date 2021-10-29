@@ -31,8 +31,6 @@ S-S связь в пептидных препаратах встречаются
 }}
 рис. Length of peptides entering clinical development, by decade. [^1]
 
-[^1]: Lau, J. L., & Dunn, M. K. (2018). Therapeutic peptides: Historical perspectives, current development trends, and future directions. Bioorganic & Medicinal Chemistry, 26(10), 2700–2707 [`[DOI]`](https://doi.org/10.1016/j.bmc.2017.06.052) [`[PDF]`](literature/lau2017.pdf)
-
 Хотя общая доля пептидов на рынке фармпрепаратов не очень велика (около **5%**, и половина выручки - продажи инсулина), она стабильно растет на 7.7% каждые 10 лет. На начало 2021 года, 80 пептидных препаратов было представлено на рынке, 150 находились в клинике и ~400–600 проходили предклинические испытания. Наверное, не будет большим преувеличением сказать, что будущее фармацевтики связано с пептидами.
 
 {{ 
@@ -44,7 +42,6 @@ S-S связь в пептидных препаратах встречаются
 }}
 рис. рост количества одобренных для клиники пептидов. [^2]
 
-[^2]: Muttenthaler, M., King, G.F., Adams, D.J. _et al._ Trends in peptide drug discovery. _Nat Rev Drug Discov_ **20,** 309–325 (2021) [`[DOI]`](https://doi.org/10.1038/s41573-020-00135-8) [`[PDF]`](literature/s41573-020-00135-8.pdf)
 
 ### Verse 1: S-S связи в инсулине
 
@@ -89,7 +86,7 @@ S-S связь в пептидных препаратах встречаются
 
 Итак, такая последовательная селективная сшивка при производстве инсулина возможна, поскольку касательно метода окисления дифенилсульфоксидом в Houben-Weyl написано следующее:
 
->The reagents oxidatively cleave almost all types of S-protecting groups including those which are not oxidatively cleaved by iodine. [^1]
+>The reagents oxidatively cleave almost all types of S-protecting groups including those which are not oxidatively cleaved by iodine. [^3]
 
 К тому же раз его делают много и промышленно - значит метод, которым они пользуются хорошо масштабируем (в том числе по концентрациям - не требует большого разбавления), и не дает межмолекулярных и прочих побочек.
 
@@ -106,23 +103,27 @@ S-S связь в пептидных препаратах встречаются
 
 Кроме того, есть риск межмолекулярной циклизации, поэтому реакционную массу приходится сильно разбавлять.
 
-Более технологичный и удобный метод окисления в дисульфид пептидов с Acm зацитами на сере - использует сульфоксиды. Даже ДМСО может так окислить до дисульфида, но дает много побочек, зато дифенилсульфоксид - очень мягкий и очень селективный. [^2]
+Более технологичный и удобный метод окисления в дисульфид пептидов с Acm зацитами на сере - использует сульфоксиды. Даже ДМСО может так окислить до дисульфида, но дает много побочек, зато дифенилсульфоксид - очень мягкий и очень селективный. [^4]
 
 
 ---
 
-Стоит упомянуть, что свободные от защитных групп цистеины могут образовать дисульфидный мостик окисляясь прямо на воздухе -- таким образом Данишефский синтезировал окситоцин в 2012 году  [^3]
+Стоит упомянуть, что свободные от защитных групп цистеины могут образовать дисульфидный мостик окисляясь прямо на воздухе -- таким образом Данишефский синтезировал окситоцин в 2012 году  [^5]
 
-То же самое происходит, например, при снятии защитных групп в синтезе `атозибана` (если использовать тритильные защиты, и снимать их вместе с Boc- на предпоследней стадии синтеза, как в патенте [^4]) - до ~10% окисленного циклического атозибана можно получить просто при стоянии реакционной смеси на воздухе. Это никак не вредит, просто наблюдение, которое показалось мне любопытным.
+То же самое происходит, например, при снятии защитных групп в синтезе `атозибана` (если использовать тритильные защиты, и снимать их вместе с Boc- на предпоследней стадии синтеза, как в патенте [^6]) - до ~10% окисленного циклического атозибана можно получить просто при стоянии реакционной смеси на воздухе. Это никак не вредит, просто наблюдение, которое показалось мне любопытным.
 
 ---
 
 ## FOOTNOTES
 
-[^1]: Houben J., Weyl T. - Houben-Weyl Methods in Organic Chemistry, Synthesis of Peptides. volume e-22b (1999),  p. 110; [`[PDF]`](literature/Houben-Weyl-e-22b(1999).djvu) 
+[^1]: Lau, J. L., & Dunn, M. K. (2018). Therapeutic peptides: Historical perspectives, current development trends, and future directions. Bioorganic & Medicinal Chemistry, 26(10), 2700–2707 [`[DOI]`](https://doi.org/10.1016/j.bmc.2017.06.052) [`[PDF]`](literature/lau2017.pdf)
 
-[^2]: Akaji, K., Tatsumi, T., Yoshida, M., Kimura, T., Fujiwara, Y., & Kiso, Y. (1991). Synthesis of cystine-peptide by a new disulphide bond-forming reaction using the siiyl chloride–sulphoxide system. J. Chem. Soc., Chem. Commun., 167–168. [`[DOI]`](https://doi.org/10.1039/C39910000167) [`[PDF]`](literature/akaji1991.pdf) 
+[^2]: Muttenthaler, M., King, G.F., Adams, D.J. _et al._ Trends in peptide drug discovery. _Nat Rev Drug Discov_ **20,** 309–325 (2021) [`[DOI]`](https://doi.org/10.1038/s41573-020-00135-8) [`[PDF]`](literature/s41573-020-00135-8.pdf)
 
-[^3]: Wang, T., & Danishefsky, S. J. (2012). Revisiting Oxytocin through the Medium of Isonitriles. Journal of the American Chemical Society, 134(32), 13244–13247. [`[DOI]`](https://doi.org/10.1021/ja3063452) 
+[^3]: Houben J., Weyl T. - Houben-Weyl Methods in Organic Chemistry, Synthesis of Peptides. volume e-22b (1999),  p. 110; [`[PDF]`](literature/Houben-Weyl-e-22b(1999).djvu) 
 
-[^4]: Method for liquid phase preparation of atosiban, [CN105713073A](https://patents.google.com/patent/CN105713073A/en) 
+[^4]: Akaji, K., Tatsumi, T., Yoshida, M., Kimura, T., Fujiwara, Y., & Kiso, Y. (1991). Synthesis of cystine-peptide by a new disulphide bond-forming reaction using the siiyl chloride–sulphoxide system. J. Chem. Soc., Chem. Commun., 167–168. [`[DOI]`](https://doi.org/10.1039/C39910000167) [`[PDF]`](literature/akaji1991.pdf) 
+
+[^5]: Wang, T., & Danishefsky, S. J. (2012). Revisiting Oxytocin through the Medium of Isonitriles. Journal of the American Chemical Society, 134(32), 13244–13247. [`[DOI]`](https://doi.org/10.1021/ja3063452) 
+
+[^6]: Method for liquid phase preparation of atosiban, [CN105713073A](https://patents.google.com/patent/CN105713073A/en) 
