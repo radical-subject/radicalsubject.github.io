@@ -80,8 +80,8 @@ Eli Lilly and Company запустили rDNA (рекомбинантный) и�
   )
 }}
 
-
-<div class='width: 500px; margin: auto; border: 3px solid #73AD21;'>
+<span>
+<div class='width: 50px; margin: auto; border: 3px solid #73AD21;'>
 {{
   image(
       img="Pastedimage20211029134735.tif", 
@@ -92,8 +92,9 @@ Eli Lilly and Company запустили rDNA (рекомбинантный) и�
   )
 }}
 </div>
-
-<div class='width: 500px; margin: auto; border: 3px solid #73AD21;'>
+</span>
+<span>
+<div class='width: 50px; margin: auto; border: 3px solid #73AD21;'>
 {{
   image(
       img="Pastedimage20211029134735.tif", 
@@ -104,6 +105,7 @@ Eli Lilly and Company запустили rDNA (рекомбинантный) и�
   )
 }}
 </div>
+</span>
 
 рис. Пайплайн производства рекомбинантного инсулина. Трансформация гибридного белка (fusion protein) в инсулин [^4]
 
