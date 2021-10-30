@@ -61,7 +61,7 @@ Eli Lilly and Company запустили rDNA (рекомбинантный) и�
 
 
 <div style='display: flex;'>
-<div style='flex: 57%;'>
+<div style='flex: 56.5%;'>
 {{ 
   image(
       img="Pastedimage20211029134735.tif", 
@@ -73,7 +73,7 @@ Eli Lilly and Company запустили rDNA (рекомбинантный) и�
 
 рис. Биосинтез инсулина в организме
 </div>
-<div style='flex: 43%;'>
+<div style='flex: 43.5%;'>
 {{ 
   image(
       img="Transformation-of-fusion-protein-into-insulin.png", 
