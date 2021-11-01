@@ -18,7 +18,7 @@ tags = ["orgchem", "peptide_synthesis", "protecting_groups"]
 
 S-S связь в пептидных препаратах встречаются повсеместно: от небольших циклических пептидов - аналогов `окситоцина` (атозибан), `соматостатина` (октреотид, ланреотид), `вазопрессина` (AVP – десмопрессин) --  
 
-<div style='display: flex; border-radius: 8px; width: 99%; background-color: white; padding: 5px;'>
+<div style='display: flex; border-radius: 8px; width: 90%; background-color: white; padding: 5px;'>
 <div style='flex: 33%;'>
 
 {{ 
