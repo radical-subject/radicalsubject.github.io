@@ -26,7 +26,7 @@ S-S связь в пептидных препаратах встречаются
 
 {{ 
   image(
-      img="Lanreotide.png", 
+      img="Lanreotide.svg", 
       alt="Lanreotide", 
       style="border-radius: 8px; width: 50%; background-color: white; padding: 5px;"
       quality=100
@@ -39,7 +39,7 @@ S-S связь в пептидных препаратах встречаются
 
 {{ 
   image(
-      img="Octreotide.png", 
+      img="Octreotide.svg", 
       alt="Octreotide", 
       style="border-radius: 8px; width: 50%; background-color: white; padding: 5px;"
       quality=100
@@ -52,7 +52,7 @@ S-S связь в пептидных препаратах встречаются
 
 {{ 
   image(
-      img="Desmopressin.png", 
+      img="Desmopressin.svg", 
       alt="Desmopressin", 
       style="border-radius: 8px; width: 50%; background-color: white; padding: 5px;"
       quality=100
