@@ -20,15 +20,57 @@ S-S связь в пептидных препаратах встречаются
 
 
 
+<div style='display: flex;'>
+<div style='flex: 33%;'>
+
 
 {{ 
+  image(
+      img="Lanreotide.png", 
+      alt="Lanreotide", 
+      style="border-radius: 8px; width: 50%; background-color: white; padding: 5px;"
+      quality=100
+  )
+}}
+
+</div>
+<div style='flex: 33%;'>
+
+
+{{ 
+  image(
+      img="Octreotide.png", 
+      alt="Octreotide", 
+      style="border-radius: 8px; width: 50%; background-color: white; padding: 5px;"
+      quality=100
+  )
+}}
+
+</div>
+<div style='flex: 33%;'>
+
+
+{{ 
+  image(
+      img="Desmopressin.png", 
+      alt="Desmopressin", 
+      style="border-radius: 8px; width: 50%; background-color: white; padding: 5px;"
+      quality=100
+  )
+}}
+
+</div>
+</div>
+
+
+<!-- {{ 
   image(
       url="https://upload.wikimedia.org/wikipedia/commons/3/3e/Desmopressin.svg",
       alt="Desmopressin", 
       style="border-radius: 8px; width: 50%; background-color: white; padding: 5px;"
       position="left"
   )
-}}
+}} -->
 
 
 Полюбовались красивыми структурками? Теперь добро пожаловать под кат.
