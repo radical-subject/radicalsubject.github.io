@@ -21,9 +21,12 @@ S-S связь в пептидных препаратах встречаются
 {{
   figure(
     url="https://en.wikipedia.org/wiki/Vasopressin#/media/File:Vasopressin_labeled.png",
-    alt=""
-  )
-}}
+          alt = "feris",
+          style="width: 50%;",
+          position="left"
+          caption_position="right",
+          caption="Ferris, the (unofficial) Rust mascot",
+          caption_style="font-weight: bold; font-style: italic;") }}
 
 {{ 
   image(
