@@ -20,7 +20,7 @@ S-S связь в пептидных препаратах встречаются
 
 
 
-<div style='display: flex; background-color: white; padding: 5px;'>
+<div style='display: flex; border-radius: 8px; width: 99%; background-color: white; padding: 5px;'>
 <div style='flex: 33%;'>
 
 
