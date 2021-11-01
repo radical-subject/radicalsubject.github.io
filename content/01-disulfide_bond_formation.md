@@ -24,7 +24,7 @@ S-S связь в пептидных препаратах встречаются
 <div style='flex: 33%;'>
 
 
-{{ 
+<!-- {{ 
   image(
       img="Lanreotide.svg", 
       alt="Lanreotide", 
@@ -58,17 +58,17 @@ S-S связь в пептидных препаратах встречаются
 }}
 
 </div>
-</div>
+</div> -->
 
 
-<!-- {{ 
+{{ 
   image(
       url="https://upload.wikimedia.org/wikipedia/commons/3/3e/Desmopressin.svg",
       alt="Desmopressin", 
       style="border-radius: 8px; width: 50%; background-color: white; padding: 5px;"
       position="left"
   )
-}} -->
+}}
 
 
 Полюбовались красивыми структурками? Теперь добро пожаловать под кат.
