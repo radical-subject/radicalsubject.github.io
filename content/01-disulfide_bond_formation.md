@@ -54,7 +54,7 @@ S-S связь в пептидных препаратах встречаются
 
 {{ 
   image(
-      img="Снимок.png", 
+      img="Снимок.PNG", 
       alt="тета-дефензины", 
       style="border-radius: 8px; width: 98.3%;",
       quality=100
