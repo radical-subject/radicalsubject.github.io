@@ -123,7 +123,7 @@ Eli Lilly and Company запустили rDNA (рекомбинантный) и�
 }}
 
 </div>
-<div style='flex: 44.2%;'>
+<div style='flex: 44%;'>
 
 
 {{ 
