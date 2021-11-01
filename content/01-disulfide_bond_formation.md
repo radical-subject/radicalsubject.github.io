@@ -20,7 +20,16 @@ S-S связь в пептидных препаратах встречаются
 
 {{
   figure(
-    url="https://en.wikipedia.org/wiki/Vasopressin#/media/File:Vasopressin_labeled.png"
+    url="https://en.wikipedia.org/wiki/Vasopressin#/media/File:Vasopressin_labeled.png",
+    alt=""
+  )
+}}
+
+{{ 
+  image(
+      url="https://en.wikipedia.org/wiki/Vasopressin#/media/File:Vasopressin_labeled.png",
+      alt="trends in leength of peptide drugs", 
+      style="border-radius: 8px; width: 90%;"
   )
 }}
 
