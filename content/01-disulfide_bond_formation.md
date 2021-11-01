@@ -197,23 +197,23 @@ Eli Lilly and Company запустили rDNA (рекомбинантный) и�
 
 ## FOOTNOTES
 
-[^1]: Lau, J. L., & Dunn, M. K. (2018). Therapeutic peptides: Historical perspectives, current development trends, and future directions. Bioorganic & Medicinal Chemistry, 26(10), 2700–2707 [`[DOI]`](https://doi.org/10.1016/j.bmc.2017.06.052) [`[PDF]`](literature/lau2017.pdf)
+[^1]: Lau, J. L., & Dunn, M. K. (2018). Therapeutic peptides: Historical perspectives, current development trends, and future directions. Bioorganic & Medicinal Chemistry, 26(10), 2700–2707 [`[DOI]`](https://doi.org/10.1016/j.bmc.2017.06.052) [`[PDF]`](/literature/lau2017.pdf)
 
-[^2]: Muttenthaler, M., King, G.F., Adams, D.J. _et al._ Trends in peptide drug discovery. _Nat Rev Drug Discov_ **20,** 309–325 (2021) [`[DOI]`](https://doi.org/10.1038/s41573-020-00135-8) [`[PDF]`](literature/s41573-020-00135-8.pdf)
+[^2]: Muttenthaler, M., King, G.F., Adams, D.J. _et al._ Trends in peptide drug discovery. _Nat Rev Drug Discov_ **20,** 309–325 (2021) [`[DOI]`](https://doi.org/10.1038/s41573-020-00135-8) [`[PDF]`](/literature/s41573-020-00135-8.pdf)
 
-[^3]: Siew and Zhang Bioresour. Bioprocess. (2021) 8:65 Downstream processing of recombinant human insulin and its analogues production from E. coli inclusion bodies Yin Yin Siew and Wei Zhang [`[DOI]`](https://doi.org/10.1186/s40643-021-00419-w) [`[PDF]`](s40643-021-00419-w.pdf)
+[^3]: Siew and Zhang Bioresour. Bioprocess. (2021) 8:65 Downstream processing of recombinant human insulin and its analogues production from E. coli inclusion bodies Yin Yin Siew and Wei Zhang [`[DOI]`](https://doi.org/10.1186/s40643-021-00419-w) [`[PDF]`](/literature/s40643-021-00419-w.pdf)
 
-[^4]: Computer-Aided Process Analysis and Economic Evaluation for Biosynthetic Human Insulin Production—A Case Study December 1995 Biotechnology and Bioengineering 48(5):529-41 [`[DOI]`](https://doi.org/10.1002/bit.260480516) [`[PDF]`](Computer-Aided_Process_Analysis_and_Economic_Evalu.pdf)
+[^4]: Computer-Aided Process Analysis and Economic Evaluation for Biosynthetic Human Insulin Production—A Case Study December 1995 Biotechnology and Bioengineering 48(5):529-41 [`[DOI]`](https://doi.org/10.1002/bit.260480516) [`[PDF]`](/literature/Computer-Aided_Process_Analysis_and_Economic_Evalu.pdf)
 
-[^5]: Moroder, L., & Musiol, H.-J. (2017). Insulin-From its Discovery to the Industrial Synthesis of Modern Insulin Analogues. Angewandte Chemie International Edition, 56(36), 10656–10669. [`[DOI]`](https://doi.org/10.1002/anie.201702493) [`[PDF]`](literature/moroder2017.pdf)
+[^5]: Moroder, L., & Musiol, H.-J. (2017). Insulin-From its Discovery to the Industrial Synthesis of Modern Insulin Analogues. Angewandte Chemie International Edition, 56(36), 10656–10669. [`[DOI]`](https://doi.org/10.1002/anie.201702493) [`[PDF]`](/literature/moroder2017.pdf)
 
-[^6]: Angew. Chem. 2014, 126, 4064–4068 [`[DOI]`](https://doi.org/10.1002/ange.201310735) [`[PDF]`](literature/ange.201310735.pdf)
+[^6]: Angew. Chem. 2014, 126, 4064–4068 [`[DOI]`](https://doi.org/10.1002/ange.201310735) [`[PDF]`](/literature/ange.201310735.pdf)
 
 ---
 
-[^3]: Houben J., Weyl T. - Houben-Weyl Methods in Organic Chemistry, Synthesis of Peptides. volume e-22b (1999),  p. 110; [`[PDF]`](literature/Houben-Weyl-e-22b(1999).djvu) 
+[^3]: Houben J., Weyl T. - Houben-Weyl Methods in Organic Chemistry, Synthesis of Peptides. volume e-22b (1999),  p. 110; [`[PDF]`](/literature/Houben-Weyl-e-22b(1999).djvu) 
 
-[^4]: Akaji, K., Tatsumi, T., Yoshida, M., Kimura, T., Fujiwara, Y., & Kiso, Y. (1991). Synthesis of cystine-peptide by a new disulphide bond-forming reaction using the siiyl chloride–sulphoxide system. J. Chem. Soc., Chem. Commun., 167–168. [`[DOI]`](https://doi.org/10.1039/C39910000167) [`[PDF]`](literature/akaji1991.pdf) 
+[^4]: Akaji, K., Tatsumi, T., Yoshida, M., Kimura, T., Fujiwara, Y., & Kiso, Y. (1991). Synthesis of cystine-peptide by a new disulphide bond-forming reaction using the siiyl chloride–sulphoxide system. J. Chem. Soc., Chem. Commun., 167–168. [`[DOI]`](https://doi.org/10.1039/C39910000167) [`[PDF]`](/literature/akaji1991.pdf) 
 
 [^5]: Wang, T., & Danishefsky, S. J. (2012). Revisiting Oxytocin through the Medium of Isonitriles. Journal of the American Chemical Society, 134(32), 13244–13247. [`[DOI]`](https://doi.org/10.1021/ja3063452) 
 
