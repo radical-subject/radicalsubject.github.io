@@ -26,7 +26,7 @@ S-S связь в пептидных препаратах встречаются
 
 {{ 
   image(
-      img="Lanreotide.svg", 
+      img="Lanreotide.png", 
       alt="Lanreotide", 
       style="border-radius: 8px; width: 50%; background-color: white; padding: 5px;"
       quality=100
