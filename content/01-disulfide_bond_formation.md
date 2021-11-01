@@ -205,7 +205,7 @@ Eli Lilly and Company запустили rDNA (рекомбинантный) и�
 
 [^4]: Computer-Aided Process Analysis and Economic Evaluation for Biosynthetic Human Insulin Production—A Case Study December 1995 Biotechnology and Bioengineering 48(5):529-41 [`[DOI]`](https://doi.org/10.1002/bit.260480516) [`[PDF]`](Computer-Aided_Process_Analysis_and_Economic_Evalu.pdf)
 
-[^5]: Moroder, L., & Musiol, H.-J. (2017). Insulin-From its Discovery to the Industrial Synthesis of Modern Insulin Analogues. Angewandte Chemie International Edition, 56(36), 10656–10669. [`[DOI]`](https://doi.org/10.1002/anie.201702493) [`[PDF]`](moroder2017.pdf)
+[^5]: Moroder, L., & Musiol, H.-J. (2017). Insulin-From its Discovery to the Industrial Synthesis of Modern Insulin Analogues. Angewandte Chemie International Edition, 56(36), 10656–10669. [`[DOI]`](https://doi.org/10.1002/anie.201702493) [`[PDF]`](literature/moroder2017.pdf)
 
 [^6]: Angew. Chem. 2014, 126, 4064–4068 [`[DOI]`](https://doi.org/10.1002/ange.201310735) [`[PDF]`](literature/ange.201310735.pdf)
 
