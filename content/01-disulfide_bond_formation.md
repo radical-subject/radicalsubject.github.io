@@ -53,7 +53,7 @@ https://upload.wikimedia.org/wikipedia/commons/3/3e/Desmopressin.svg
   image(
       img="Pasted image 20211029012029.png", 
       alt="market share of peptide drugs", 
-      style="border-radius: 8px; width: 90%;"
+      style="border-radius: 5px; width: 90%;"
   )
 }}
 
