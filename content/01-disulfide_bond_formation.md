@@ -37,6 +37,7 @@ S-S связь в пептидных препаратах встречаются
 </div>
 <div style='flex: 33%;'>
 
+
 {{ 
   image(
       url="Octreotide.svg", 
