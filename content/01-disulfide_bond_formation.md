@@ -52,21 +52,17 @@ S-S связь в пептидных препаратах встречаются
 Любопытными фармакологическими платформами для поиска пептидных препаратов являются тета-дефензины (три дисульфидные связи, объединяющие две пептидные цепи в бета-лист, 18 аминокислот), конотоксины (токсины улитки-конуса, омега-конотоксин содержит [цистиновый узел](https://en.wikipedia.org/wiki/Cystine_knot)) и циклотиды (30 аминокислот + [цистиновый узел](https://en.wikipedia.org/wiki/Cystine_knot)), и пр. 
 
 
-{% callout(alt = "⚗️") %} Тета-дефензины на мой взгляд особо уникальный класс пептидов. В огранизме млекопитащих они выполняют роль этаких мощных `эндогенных антибиотиков` [^3.4]; проявляют антивиральную (в том числе, антиретровирусную [^3.3]) 
-активность; имеют иммуно-модулирующие свойства. В организме человка их нет, а найдены они только в лейкоцитах макак-резусов и у бабуинов. 
-
-[^3.4]: D. Tran, P. Tran, K. Roberts, G. Ösapay, J. Schaal, A. Ouellette, M.E. Selsted, Microbicidal properties and cytocidal selectivity of rhesus macaque theta defensins, Antimicrobial Agents and Chemotherapy 52 (2008); P. Tongaonkar, P. Tran, K. Roberts, J. Schaal, G. Ösapay, D. Tran, A.J. Ouellette, M.E. Selsted, Rhesus macaque q-defensin isoforms: expression, antimicrobial activities, and demonstration of a prominent role in neutrophil granule microbicidal activities, Journal of Leukocyte Biology 89 (2011)
-
-[^3.3]: A.M. Cole, T. Hong, L.M. Boo, T. Nguyen, C. Zhao, G. Bristol, J.A. Zack, A.J. Waring, O.O. Yang, R.I. Lehrer, Retrocyclin: a primate peptide that protects cells from infection by T- and M-tropic strains of HIV-1, Proceedings of the National Academy of Sciences 99 (2002)
-
 {{ 
   image(
       img="Снимок.png", 
-      alt="перегруппировка изоацилпептидов", 
+      alt="тета-дефензины", 
       style="border-radius: 8px; width: 98.3%;",
       quality=100
   )
 }}
+
+{% callout(alt = "⚗️") %} Тета-дефензины на мой взгляд особо уникальный класс пептидов. В огранизме млекопитащих они выполняют роль этаких мощных `эндогенных антибиотиков` [^3.4]; проявляют антивиральную (в том числе, антиретровирусную [^3.3]) 
+активность; имеют иммуно-модулирующие свойства. В организме человка их нет, а найдены они только в лейкоцитах макак-резусов и у бабуинов. 
 
 θ-дефензины представляют собой ∼2 kDa бета лист из двух антипараллельных пептидных цепей, соединенный тремя дисульфидными связями, который собирается в организме из двух кусков-прекурсоров длиной по 9 АК. Поскольку в геноме есть 4 таких прекурсора θ-дефендинов, теоретически эти четыре субъединицы могут соединяться в 10 разных дефензинов. [^3.2] 
 {% end %}
@@ -231,6 +227,11 @@ Eli Lilly and Company запустили rDNA (рекомбинантный) и�
 [^3.1]: Disulfide-rich macrocyclic peptides as templates in drug design. Susan E.NorthfieldConan K.WangChristina I.Schroeder Thomas DurekMeng-WeiKan Joakim E.Swedberg David J.Craik; European Journal of Medicinal Chemistry Volume 77, 22 April 2014, Pages 248-257 [`[DOI]`](https://doi.org/10.1016/j.ejmech.2014.03.011) [`[PDF]`](/literature/1-s2.0-S0223523414002153-main.pdf) 
 
 [^3.2]: Isolation, Synthesis, and Antimicrobial Activities of Naturally Occurring θ-Defensin Isoforms from Baboon Leukocytes, Infection and Immunity Volume 76 Number 12 December 2008 Pages: 5883 - 5891 [`[DOI]`](https://doi.org/10.1128/IAI.01100-08) [`[PDF]`](/literature/IAI.01100-08.pdf)
+
+
+[^3.4]: D. Tran, P. Tran, K. Roberts, G. Ösapay, J. Schaal, A. Ouellette, M.E. Selsted, Microbicidal properties and cytocidal selectivity of rhesus macaque theta defensins, Antimicrobial Agents and Chemotherapy 52 (2008); P. Tongaonkar, P. Tran, K. Roberts, J. Schaal, G. Ösapay, D. Tran, A.J. Ouellette, M.E. Selsted, Rhesus macaque q-defensin isoforms: expression, antimicrobial activities, and demonstration of a prominent role in neutrophil granule microbicidal activities, Journal of Leukocyte Biology 89 (2011)
+
+[^3.3]: A.M. Cole, T. Hong, L.M. Boo, T. Nguyen, C. Zhao, G. Bristol, J.A. Zack, A.J. Waring, O.O. Yang, R.I. Lehrer, Retrocyclin: a primate peptide that protects cells from infection by T- and M-tropic strains of HIV-1, Proceedings of the National Academy of Sciences 99 (2002)
 
 [^4]: Computer-Aided Process Analysis and Economic Evaluation for Biosynthetic Human Insulin Production—A Case Study December 1995 Biotechnology and Bioengineering 48(5):529-41 [`[DOI]`](https://doi.org/10.1002/bit.260480516) [`[PDF]`](/literature/Computer-Aided_Process_Analysis_and_Economic_Evalu.pdf)
 
