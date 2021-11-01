@@ -19,13 +19,13 @@ tags = ["orgchem", "peptide_synthesis", "protecting_groups"]
 S-S связь в пептидных препаратах встречаются повсеместно: от небольших циклических пептидов - аналогов `окситоцина` (атозибан), `соматостатина` (октреотид, ланреотид), `вазопрессина` (AVP – десмопрессин) - до монстров, типа `инсулина`, с тремя дисульфидными связями, две из которых соединяют между собой `А` и `В` пептидные цепи инсулина.
 
 
-https://upload.wikimedia.org/wikipedia/commons/3/3e/Desmopressin.svg
+
 
 {{ 
   image(
-      url="https://upload.wikimedia.org/wikipedia/commons/9/95/Vasopressin_labeled.png",
-      alt="vasopressin", 
-      style="border-radius: 8px; width: 30%; background-color: white; padding: 20px;"
+      url="https://upload.wikimedia.org/wikipedia/commons/3/3e/Desmopressin.svg",
+      alt="Desmopressin", 
+      style="border-radius: 8px; width: 50%; background-color: white; padding: 5px;"
       position="left"
   )
 }}
@@ -40,7 +40,7 @@ https://upload.wikimedia.org/wikipedia/commons/3/3e/Desmopressin.svg
   image(
       img="1-s2.0-S0968089617310222-gr3_lrg.jpg", 
       alt="trends in leength of peptide drugs", 
-      style="border-radius: 5px; width: 90%;"
+      style="border-radius: 5px; width: 90%; padding: 5px;"
   )
 }}
 
@@ -53,7 +53,7 @@ https://upload.wikimedia.org/wikipedia/commons/3/3e/Desmopressin.svg
   image(
       img="Pasted image 20211029012029.png", 
       alt="market share of peptide drugs", 
-      style="border-radius: 5px; width: 90%;"
+      style="border-radius: 5px; width: 90%; padding: 5px;"
   )
 }}
 
