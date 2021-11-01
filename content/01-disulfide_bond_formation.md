@@ -22,17 +22,17 @@ S-S связь в пептидных препаратах встречаются
   figure(
     url="https://upload.wikimedia.org/wikipedia/commons/9/95/Vasopressin_labeled.png",
           alt = "feris",
-          style="width: 50%;",
+          style="width: 50%; background-color: white; padding: 20px;",
           position="left"
           caption_position="right",
           caption="Ferris, the (unofficial) Rust mascot",
           caption_style="font-weight: bold; font-style: italic;") }}
-
+https://upload.wikimedia.org/wikipedia/commons/3/3e/Desmopressin.svg
 {{ 
   image(
       url="https://upload.wikimedia.org/wikipedia/commons/9/95/Vasopressin_labeled.png",
       alt="trends in leength of peptide drugs", 
-      style="border-radius: 8px; width: 90%;"
+      style="border-radius: 8px; width: 90%; background-color: white; padding: 20px;"
   )
 }}
 
