@@ -283,9 +283,9 @@ Eli Lilly and Company запустили rDNA (рекомбинантный) и�
 
 ### синтез альфа-конотоксина 
 
-Пример синтеза с четырьмя ортогональными дисульфидными связями [^conotoxin]
+Пример синтеза с четырьмя ортогональными дисульфидными связями - редкость [^conotoxin]
 
-[^conotoxin]: Cuthbertson, A., & Indrevoll, B. (2003). Regioselective Formation, Using Orthogonal Cysteine Protection, of an α-Conotoxin Dimer Peptide Containing Four Disulfide Bonds. Organic Letters, 5(16), 2955–2957. [`[DOI]`](https://doi.org/10.1021/ol035105w) [`[PDF]`]()
+[^conotoxin]: Cuthbertson, A., & Indrevoll, B. (2003). Regioselective Formation, Using Orthogonal Cysteine Protection, of an α-Conotoxin Dimer Peptide Containing Four Disulfide Bonds. Organic Letters, 5(16), 2955–2957. [`[DOI]`](https://doi.org/10.1021/ol035105w) [`[PDF]`](/literature/cuthbertson2003.pdf)
 
 >For example, regioselective synthesis of peptides with greater than four disulfide bonds has not yet been reported; novel protecting groups will likely prove critical to achieving this. 
 
