@@ -1,130 +1,76 @@
-{% if img %}
-  {% for p in page.assets %}  
-    {% if p is ending_with(img) %}
-      {% set_global path = p %}
-    {% endif %}
-  {% endfor %}
-
-  {% if path is not defined %}
-    {% set_global path = "static/" ~ img %}
-  {% endif %}
-  
-  {% if format is not defined %}
-    {% set_global format = "webp" %}
-  {% endif %}
-  
-  {% if quality is not defined %}
-  {% set_global quality = 75 %}
-  {% endif %}
-  
-  {% if full is not defined %}
-    {# TODO: https://github.com/getzola/zola/issues/1596 #}
-    {% set_global full = get_url(path=path) | replace(from="/pages/", to="/") | replace(from="/static/", to="/") %}
-  {% endif %}
-
-  {% set new_image = resize_image(path=path, width=1280, height=1280, op="fit", format=format, quality=quality) %}
-  {% set_global src = new_image.static_path | trim_start_matches(pat="static") %}  
-{% elif url %}
-  {% set_global src = url %}
-  {% if full is not defined %}
-    {% set_global full = url %}
-  {% endif %}
-{% else %}
-  {{ throw(message="Either `img` or `url` must be set") }}
-{% endif %}
+{% if img %} {% for p in page.assets %} {% if p is ending_with(img) %} {% set_global path = p %} {% endif %} {% endfor %} {% if path is not defined %} {% set_global path = "static/" ~ img %} {% endif %} {% if format is not defined %} {% set_global format
+= "webp" %} {% endif %} {% if quality is not defined %} {% set_global quality = 75 %} {% endif %} {% if full is not defined %} {# TODO: https://github.com/getzola/zola/issues/1596 #} {% set_global full = get_url(path=path) | replace(from="/pages/", to="/")
+| replace(from="/static/", to="/") %} {% endif %} {% set new_image = resize_image(path=path, width=1280, height=1280, op="fit", format=format, quality=quality) %} {% set_global src = new_image.static_path | trim_start_matches(pat="static") %} {% elif
+url %} {% set_global src = url %} {% if full is not defined %} {% set_global full = url %} {% endif %} {% else %} {{ throw(message="Either `img` or `url` must be set") }} {% endif %}
 
 
 
 <!-- Container for the image gallery -->
 <div class="gallery-gallery">
-<div class="gallery-container">
+    <div class="gallery-container">
 
-    <!-- Full-width images with number text -->
-    <div class="gallery-mySlides">
-      <div class="gallery-numbertext">1 / 6</div>
-        <img 
-            src="{{ src }}" 
-            alt="{{ alt }}"
-            style="width:100%"
-        />
+        <!-- Full-width images with number text -->
+        <div class="gallery-mySlides">
+            <div class="gallery-numbertext">1 / 6</div>
+            <img src="{{ src }}" alt="{{ alt }}" style="width:100%" class="{% if position %}{{ position }}{% else -%} center {%- endif %}" {%- if style %} style="{{ style | safe }}" {%- endif %} />
+        </div>
+
+        <div class="gallery-mySlides">
+            <div class="gallery-numbertext">2 / 6</div>
+            <img src="{{ src }}" alt="{{ alt }}" style="width:100%" class="{% if position %}{{ position }}{% else -%} center {%- endif %}" {%- if style %} style="{{ style | safe }}" {%- endif %} />
+        </div>
+
+        <div class="gallery-mySlides">
+            <div class="gallery-numbertext">3 / 6</div>
+            <img src="{{ src }}" alt="{{ alt }}" style="width:100%" class="{% if position %}{{ position }}{% else -%} center {%- endif %}" {%- if style %} style="{{ style | safe }}" {%- endif %} />
+        </div>
+
+        <div class="gallery-mySlides">
+            <div class="gallery-numbertext">4 / 6</div>
+            <img src="{{ src }}" alt="{{ alt }}" style="width:100%" class="{% if position %}{{ position }}{% else -%} center {%- endif %}" {%- if style %} style="{{ style | safe }}" {%- endif %} />
+        </div>
+
+        <div class="gallery-mySlides">
+            <div class="gallery-numbertext">5 / 6</div>
+            <img src="{{ src }}" alt="{{ alt }}" style="width:100%" class="{% if position %}{{ position }}{% else -%} center {%- endif %}" {%- if style %} style="{{ style | safe }}" {%- endif %} />
+        </div>
+
+        <div class="gallery-mySlides">
+            <div class="gallery-numbertext">6 / 6</div>
+            <img src="{{ src }}" alt="{{ alt }}" style="width:100%" class="{% if position %}{{ position }}{% else -%} center {%- endif %}" {%- if style %} style="{{ style | safe }}" {%- endif %} />
+        </div>
+
+        <!-- Next and previous buttons -->
+        <a class="gallery-prev" onclick="plusSlides(-1)">&#10094;</a>
+        <a class="gallery-next" onclick="plusSlides(1)">&#10095;</a>
+
+        <!-- Image text -->
+        <div class="gallery-caption-container">
+            <p id="caption"></p>
+        </div>
+
+        <!-- Thumbnail images -->
+        <div class="row">
+            <div class="gallery-column">
+                <img class="gallery-demo gallery-cursor" src="{{ src }}" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
+            </div>
+            <div class="gallery-column">
+                <img class="gallery-demo gallery-cursor" src="{{ src }}" style="width:100%" onclick="currentSlide(2)" alt="Cinque Terre">
+            </div>
+            <div class="gallery-column">
+                <img class="gallery-demo gallery-cursor" src="{{ src }}" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
+            </div>
+            <div class="gallery-column">
+                <img class="gallery-demo gallery-cursor" src="{{ src }}" style="width:100%" onclick="currentSlide(4)" alt="Northern Lights">
+            </div>
+            <div class="gallery-column">
+                <img class="gallery-demo gallery-cursor" src="{{ src }}" style="width:100%" onclick="currentSlide(5)" alt="Nature and sunrise">
+            </div>
+            <div class="gallery-column">
+                <img class="gallery-demo gallery-cursor" src="{{ src }}" style="width:100%" onclick="currentSlide(6)" alt="Snowy Mountains">
+            </div>
+        </div>
     </div>
-  
-    <div class="gallery-mySlides">
-      <div class="gallery-numbertext">2 / 6</div>
-        <img 
-            src="{{ src }}" 
-            alt="{{ alt }}"
-            style="width:100%"
-        />
-    </div>
-  
-    <div class="gallery-mySlides">
-      <div class="gallery-numbertext">3 / 6</div>
-        <img 
-            src="{{ src }}" 
-            alt="{{ alt }}"
-            style="width:100%"
-        />
-    </div>
-  
-    <div class="gallery-mySlides">
-      <div class="gallery-numbertext">4 / 6</div>
-        <img 
-            src="{{ src }}" 
-            alt="{{ alt }}"
-            style="width:100%"
-        />
-    </div>
-  
-    <div class="gallery-mySlides">
-      <div class="gallery-numbertext">5 / 6</div>
-        <img 
-            src="{{ src }}" 
-            alt="{{ alt }}"
-            style="width:100%" 
-        />
-    </div>
-  
-    <div class="gallery-mySlides">
-      <div class="gallery-numbertext">6 / 6</div>
-        <img 
-            src="{{ src }}" 
-            alt="{{ alt }}"
-            style="width:100%"
-        />
-    </div>
-  
-    <!-- Next and previous buttons -->
-    <a class="gallery-prev" onclick="plusSlides(-1)">&#10094;</a>
-    <a class="gallery-next" onclick="plusSlides(1)">&#10095;</a>
-  
-    <!-- Image text -->
-    <div class="gallery-caption-container">
-      <p id="caption"></p>
-    </div>
-  
-    <!-- Thumbnail images -->
-    <div class="row">
-      <div class="gallery-column">
-        <img class="gallery-demo gallery-cursor" src="{{ src }}" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
-      </div>
-      <div class="gallery-column">
-        <img class="gallery-demo gallery-cursor" src="{{ src }}" style="width:100%" onclick="currentSlide(2)" alt="Cinque Terre">
-      </div>
-      <div class="gallery-column">
-        <img class="gallery-demo gallery-cursor" src="{{ src }}" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
-      </div>
-      <div class="gallery-column">
-        <img class="gallery-demo gallery-cursor" src="{{ src }}" style="width:100%" onclick="currentSlide(4)" alt="Northern Lights">
-      </div>
-      <div class="gallery-column">
-        <img class="gallery-demo gallery-cursor" src="{{ src }}" style="width:100%" onclick="currentSlide(5)" alt="Nature and sunrise">
-      </div>
-      <div class="gallery-column">
-        <img class="gallery-demo gallery-cursor" src="{{ src }}" style="width:100%" onclick="currentSlide(6)" alt="Snowy Mountains">
-      </div>
-    </div>
-</div>
 </div>
 
 <script>
@@ -133,29 +79,33 @@
 
     // Next/previous controls
     function plusSlides(n) {
-    showSlides(slideIndex += n);
+        showSlides(slideIndex += n);
     }
 
     // Thumbnail image controls
     function currentSlide(n) {
-    showSlides(slideIndex = n);
+        showSlides(slideIndex = n);
     }
 
     function showSlides(n) {
-    var i;
-    var slides = document.getElementsByClassName("mySlides");
-    var dots = document.getElementsByClassName("demo");
-    var captionText = document.getElementById("caption");
-    if (n > slides.length) {slideIndex = 1}
-    if (n < 1) {slideIndex = slides.length}
-    for (i = 0; i < slides.length; i++) {
-        slides[i].style.display = "none";
-    }
-    for (i = 0; i < dots.length; i++) {
-        dots[i].className = dots[i].className.replace(" active", "");
-    }
-    slides[slideIndex-1].style.display = "block";
-    dots[slideIndex-1].className += " active";
-    captionText.innerHTML = dots[slideIndex-1].alt;
+        var i;
+        var slides = document.getElementsByClassName("mySlides");
+        var dots = document.getElementsByClassName("demo");
+        var captionText = document.getElementById("caption");
+        if (n > slides.length) {
+            slideIndex = 1
+        }
+        if (n < 1) {
+            slideIndex = slides.length
+        }
+        for (i = 0; i < slides.length; i++) {
+            slides[i].style.display = "none";
+        }
+        for (i = 0; i < dots.length; i++) {
+            dots[i].className = dots[i].className.replace(" active", "");
+        }
+        slides[slideIndex - 1].style.display = "block";
+        dots[slideIndex - 1].className += " active";
+        captionText.innerHTML = dots[slideIndex - 1].alt;
     }
 </script>
