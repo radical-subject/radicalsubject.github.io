@@ -7,6 +7,13 @@ updated = 2021-11-01
 tags = ["orgchem", "peptide_synthesis", "protecting_groups"]
 +++
 
+{{
+  image_gallery(
+      img="insulin_structure.PNG", 
+      alt="", 
+      style="border-radius: 8px; width: 90%;"
+  )
+}}
 
 {{
   footnote()
