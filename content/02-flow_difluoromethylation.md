@@ -45,11 +45,12 @@ tags = ["difluorocarbene", "flow_chemistry", "active_pharmaceutical_substances"]
       quality=100
   )
 }}
+
 <p style="text-align: center">рис. 2. batch с шариком.</p>
 
 А в проточном микрореакторе - пожалуйста. Для реакций газ-жидкость перенос в проточный реактор выгоден по следующим соображениям: 
-* high pressure operation 
-and 
+
+* можно накачать  большое давление газа
 * fast gas–liquid mass transfer enhance the availability of the gaseous reagent in the liquid phase. 
 
 Статья примечательна помимо вышесказанного и тем, что, по видимому, это первая `фторсодержащая фармсубстанция`, полученная с использованием фтороформа в качестве источника фторированного фрагмента.
