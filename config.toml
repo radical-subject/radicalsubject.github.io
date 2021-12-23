@@ -38,13 +38,13 @@ copyright_html = "<div class=\"copyright\"><span>© 2021 radical_subject</span><
 
 # One of: blue, green, orange, pink, red.
 # Defaults to blue. 
-accent_color = "pink"
+accent_color = "green"
 
 # One of: blue, dark, green, orange, pink, red.
 # Enabling dark background will also modify primary font color
 # to be darker.
 # Defaults to accent color (or, if not accent color specified, to blue). 
-background_color = "pink"
+background_color = "dark"
 
 menu_items = [
     # $BASE_URL is going to be substituted by base_url from configuration
