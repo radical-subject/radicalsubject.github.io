@@ -12,7 +12,7 @@ tags = ["difluorocarbene", "flow_chemistry", "active_pharmaceutical_substances"]
       url="flow_CF2_1.png", 
       alt="Чудеса #flow_chemistry", 
       style="border-radius: 5px; width: 90%; background-color: white; padding: 5px;"
-      quality=100
+      quality=99
   )
 }}
 <p style="text-align: center">рис. 1. абстракт.</p>
