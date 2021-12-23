@@ -9,7 +9,7 @@ tags = ["difluorocarbene", "flow_chemistry", "active_pharmaceutical_substances"]
 
 {{ 
   image(
-      url="flow_CF2_1.png", 
+      url="/flow_CF2_1.png", 
       alt="Чудеса #flow_chemistry", 
       style="border-radius: 5px; width: 90%; background-color: white; padding: 5px;"
       quality=99
@@ -29,15 +29,6 @@ CF3H был бы идеальным источником CF2, и, соответ
 Он дешев, образуется в больших количествах как побочник при получении хлордифторметана, и из-за того что он в качестве парникового газа круче CO2 в 15к раз, то его неэкологично просто так выпускать в окошко, значит нужно искать способы его вовлечь обратно в производство чего нибудь полезного.
 
 <!-- more -->
-
-
-{{ 
-  image(
-      img="1-s2.0-S0968089617310222-gr3_lrg.jpg", 
-      alt="trends in leength of peptide drugs", 
-      style="border-radius: 5px; width: 90%; background-color: white; padding: 5px;"
-  )
-}}
 
 
 Работ по дифторметилированию фтороформом мало, в основном это статьи Mikami, Shibata и Dolbier. 
