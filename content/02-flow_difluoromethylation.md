@@ -7,12 +7,13 @@ updated = 2021-12-23
 tags = ["difluorocarbene", "flow_chemistry", "active_pharmaceutical_substances"]
 +++
 
+
 {{ 
   image(
       url="/flow_CF2_1.png", 
       alt="Чудеса #flow_chemistry", 
-      style="border-radius: 5px; width: 90%; background-color: white; padding: 5px;"
-      quality=99
+      style="border-radius: 5px; width: 50%; background-color: white; padding: 5px;"
+      quality=100
   )
 }}
 <p style="text-align: center">рис. 1. абстракт.</p>
@@ -41,8 +42,7 @@ NB.: дифторметил аминокислоты известны как с�
 2 экв LiHMDS хватает чтобы депротонировать альфа положение аминокислоты в первой петле, и сгенерировать дифторкарбен из фтороформа в следующей. Время реакции 20 минут, фтороформа нужно 3 экв, процесс с точки зрения исходных реагентов очень атом-экономичен. Относительно существовавших ранее методов получения эфлорнитина прогресс значительный - выход 76% против 37-40% в пересчете на источник дифторкарбена.
 
 Fluoroform (CHF3) can be considered as an ideal reagent for difluoromethylation reactions. However, due to the low reactivity of fluoroform, only very few applications have been reported so far. Herein we report a continuous flow difluoromethylation protocol on sp3 carbons employing fluoroform as a reagent. The protocol is applicable for the direct Cα-difluoromethylation of protected α-amino acids, and enables a highly atom efficient synthesis of the active pharmaceutical ingredient eflornithine.
-Pasted image 20211210160233.png
-Pasted image 20211210160500.png
+
 
 этим методом можно делать Эфлорнитин.
 
