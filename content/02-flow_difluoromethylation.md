@@ -38,7 +38,7 @@ Fluoroform (CHF3) can be considered as an ideal reagent for difluoromethylation 
 А работ по получению альфа-дифторметил аминокислот из фтороформа не было до 2018 вообще.
 
 {% callout() %} 
-**NB.:** дифторметил аминокислоты известны как селективные необратимые ингибиторы соответствующих α-аминокислотных декарбоксилаз. Сейчас на рынке реализован пока только один препарат этого класса - D,L-α-дифторметилорнитин (eflornithine) - ингибитор орнитиновой декарбоксилазы.
+**NB.:** Альфа-дифторметил аминокислоты обладают широким спектром биологической активности. Преимущественно они известны как селективные необратимые ингибиторы соответствующих α-аминокислотных декарбоксилаз. Сейчас на рынке реализован пока только один препарат этого класса - D,L-α-дифторметилорнитин (**eflornithine**) - ингибитор орнитиновой декарбоксилазы.
 {% end %}
 
 Самый **цимесь** статьи ниже [^1] в том, что в *batch* режиме α-дифторметилирование защищенных аминокислот посредством CHF3/LiHMDS **не идет**. 
@@ -59,7 +59,7 @@ Fluoroform (CHF3) can be considered as an ideal reagent for difluoromethylation 
 * можно накачать большое давление газа
 * быстрый массоперенос газ-жидкость улучшает доступность газообразного компонента в жидкой фазе. 
 
-Статья примечательна тем, что (по видимому) это первая `фторсодержащая фармсубстанция`, полученная с использованием фтороформа в качестве источника фторированного фрагмента.
+Статья примечательна тем, что **Эфлорнитин** (по видимому) - это первая `фторсодержащая фармсубстанция`, полученная с использованием фтороформа в качестве источника фторированного фрагмента.
 
 {{ 
   image(
@@ -72,15 +72,6 @@ Fluoroform (CHF3) can be considered as an ideal reagent for difluoromethylation 
 <p style="text-align: center">рис. 3. весь процесс в подробностях.</p>
 
 2 экв LiHMDS хватает чтобы депротонировать альфа положение аминокислоты в первой петле, и сгенерировать дифторкарбен из фтороформа в следующей. Время реакции 20 минут, фтороформа нужно 3 экв, процесс с точки зрения исходных реагентов очень атом-экономичен. Относительно существовавших ранее методов получения эфлорнитина прогресс значительный - выход 76% против 37-40% в пересчете на источник дифторкарбена.
-
-
-
-
-этим методом можно делать Эфлорнитин.
-
-альфа-дифторметил аминокислоты обладают широким спектром биологической активности:
-
-Cα-Difluoromethyl amino acids are potent and selective irreversible inhibitors of their respective α-amino acid decarboxylases.11 Representatives of this class of compounds exhibit a broad spectrum of biological activities, such as antibacterial, antihypertensive, cancerostatic, and cytotoxic activities.11 Currently, only D,L-α-difluoromethylornithine (eflornithine), an inhibitor of ornithine decarboxylase, is in medical use (Scheme 1). Eflornithine has been explored as an anticancer agent, and it is in clinical use for the treatment of African sleeping sickness as well as of Pneumocystis carinii pneumonia, the most frequent opportunistic infection associated with acquired immunodeficiency syndrome (AIDS).11 It is on the World Health Organization's Model List of Essential Medicines.
 
 
 ---
