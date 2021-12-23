@@ -31,7 +31,14 @@ CF3H был бы идеальным источником CF2, и, соответ
 <!-- more -->
 
 
-## Intro: зачем о них говорить особо
+{{ 
+  image(
+      img="1-s2.0-S0968089617310222-gr3_lrg.jpg", 
+      alt="trends in leength of peptide drugs", 
+      style="border-radius: 5px; width: 90%; background-color: white; padding: 5px;"
+  )
+}}
+
 
 Работ по дифторметилированию фтороформом мало, в основном это статьи Mikami, Shibata и Dolbier. 
 А работ по получению альфа-дифторметил аминокислот из фтороформа не было до 2018 вообще.
