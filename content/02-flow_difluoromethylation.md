@@ -57,6 +57,6 @@ Cα-Difluoromethyl amino acids are potent and selective irreversible inhibitors 
 
 ## FOOTNOTES
 
-[^koeckinger2017]: Köckinger, M., Ciaglia, T., Bersier, M., Hanselmann, P., Gutmann, B., & Kappe, C. O. (2018). Utilization of fluoroform for difluoromethylation in continuous flow: a concise synthesis of α-difluoromethyl-amino acids. Green Chemistry, 20(1), 108–112. [`[DOI]`](https://doi.org/10.1039/C7GC02913F) [`[PDF]`](/literaturec7gc02913f.pdf)
+[^1]: Köckinger, M., Ciaglia, T., Bersier, M., Hanselmann, P., Gutmann, B., & Kappe, C. O. (2018). Utilization of fluoroform for difluoromethylation in continuous flow: a concise synthesis of α-difluoromethyl-amino acids. Green Chemistry, 20(1), 108–112. [`[DOI]`](https://doi.org/10.1039/C7GC02913F) [`[PDF]`](/literaturec7gc02913f.pdf)
 
 
