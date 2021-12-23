@@ -2,7 +2,7 @@
 title = "Некоторые замечания по дисульфидным связям в пептидах (на примере инсулина и не только)."
 date = 2021-10-31
 updated = 2021-11-01
-<!-- draft = true -->
+
 [taxonomies] 
 tags = ["orgchem", "peptide_synthesis", "protecting_groups"]
 +++
