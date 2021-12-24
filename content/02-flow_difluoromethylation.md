@@ -49,7 +49,7 @@ tags = ["difluorocarbene", "flow_chemistry", "active_pharmaceutical_substances"]
   )
 }}
 
-<p style="text-align: center">рис. 2. batch с шариком.</p>
+<p style="text-align: center">рис. 2. batch- с шариком.</p>
 
 Зато в проточном микрореакторе - пожалуйста. 
 Для реакций газ-жидкость перенос в проточный реактор выгоден по следующим соображениям: 
