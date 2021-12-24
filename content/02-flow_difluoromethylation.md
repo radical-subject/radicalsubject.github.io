@@ -24,13 +24,13 @@ tags = ["difluorocarbene", "flow_chemistry", "active_pharmaceutical_substances"]
 
 `CF3H` был бы идеальным источником `CF2`, и, соответственно, реагентом для дифторметилирования, если бы не его низкая реакционная способность. 
 
-Он дешев, образуется в больших количествах как побочник при получении хлордифторметана в тефлоновой промышленности, и, из-за того что он в качестве парникового газа превосходит CO2 в 15к раз, его неэкологично просто так выпускать в окошко, значит нужно либо улавливать и хранить, либо *искать способы его вовлечь обратно в производство чего нибудь полезного*.
+Он дешев, образуется в больших количествах как побочник при получении хлордифторметана в тефлоновой промышленности, и, из-за того что он в качестве парникового газа превосходит CO2 в 15к раз, поэтому его неэкологично просто так выпускать в окошко. Значит фтороформ нужно либо улавливать и хранить, либо *искать способы его вовлечь обратно в производство чего нибудь полезного*, чем и занялись в этой работе.
 
-На картинке вы можете видеть чудеса `#flow_chemistry`, на которые обратили мое внимание коллабораторы из лаборатории в МИТХТ (ребята внедряют проточные реактора в фарме). Под катом очень любопытная для технологов фарм-производств статья по проточным реакторам в синтезе альфа-дифторметилированных аминокислот. 
+На картинке вы можете видеть чудеса `#flow_chemistry`, на которые обратили мое внимание коллабораторы из лаборатории в МИТХТ (ребята внедряют проточные реактора в фарме). Под катом очень любопытная для технологов фарм-производств статья Kappe 2018 года по проточным реакторам в синтезе альфа-дифторметилированных аминокислот. 
 
 <!-- more -->
 
-Работ по дифторметилированию фтороформом мало, в основном это статьи `Mikami`, `Shibata` и `Dolbier`. 
+Работ по прямому дифторметилированию фтороформом мало, в основном это статьи `Mikami`, `Shibata` и `Dolbier`. 
 А работ по получению альфа-дифторметил аминокислот из фтороформа не было до 2018 вообще.
 
 {% callout() %} 
@@ -69,11 +69,56 @@ tags = ["difluorocarbene", "flow_chemistry", "active_pharmaceutical_substances"]
 
 2 экв LiHMDS хватает чтобы депротонировать альфа положение аминокислоты в первой петле, и сгенерировать дифторкарбен из фтороформа в следующей. Время реакции 20 минут, фтороформа нужно 3 экв, процесс с точки зрения исходных реагентов очень атом-экономичен. Относительно существовавших ранее методов получения эфлорнитина прогресс значительный - выход 76% против 37-40% в пересчете на источник дифторкарбена.
 
+{% callout() %} 
+Что касается прочих использований фтороформа в проточных реакторах, не только по дифторметилированию, но и по трифторметилированию рекомендую толковый обзор 2021 года [^2]
+{% end %}
+
+В том же году группа `Kappe` усовершенствовала техпроцесс для получения эфлорнитина в проточном режиме [^3]
+
+[^3]: Köckinger, M., Hone, C. A., Gutmann, B., Hanselmann, P., Bersier, M., Torvisco, A., & Kappe, C. O. (2018). Scalable Continuous Flow Process for the Synthesis of Eflornithine using Fluoroform as Difluoromethyl Source. Organic Process Research & Development. [`[DOI]`](https://doi.org/10.1021/acs.oprd.8b00318) [`[PDF]`](10.1021@acs.oprd.8b00318.pdf) [`[SUPPORTING]`](op8b00318_si_001.pdf)
+
+<!-- ![[Pasted image 20211224130802.png]] -->
+{{ 
+  image(
+      url="/flow_CF2_4.png", 
+      alt="Чудеса #flow_chemistry", 
+      style="border-radius: 5px; width: 90%; background-color: white; padding: 5px;"
+      quality=100
+  )
+}}
+<p style="text-align: center">рис. 4. Схема усовершенствованного процесса</p>
+
+Были решены технологические трудности:
+- связанные с накоплением осадков в трубках перед регулятором обратного давления (back pressure regulator, BPR, обычно ставится в конце проточной системы чтобы регулировать общее давление) - взяли регулятор с большей шириной канала, но с меньшим мертвым объемом;
+- уменьшили необходимый избыток фтороформа;
+- улучшили смешение заменив вторую петлю в первоначальной схеме (рис. 1) на стеклянный плоский миксер-реактор;
+- добавили модуль гидролиза защитных групп к системе (примечательно что сделать его пришлось из [PFA](https://en.wikipedia.org/wiki/Perfluoroalkoxy_alkane) трубок).
+
+<!-- ![[Pasted image 20211224130900.png]] -->
+{{ 
+  image(
+      url="/flow_CF2_5.png", 
+      alt="Чудеса #flow_chemistry", 
+      style="border-radius: 5px; width: 90%; background-color: white; padding: 5px;"
+      quality=100
+  )
+}}
+<p style="text-align: center">рис. 5. установка IRL</p>
+
+В модуле гидролиза действием HCl/microwave одновременно снимаются защита (шиффы на аминогруппах и метиловый эфир на кислоте), и получается эфлорнитина моногидрохлорид с выходом 86%. Что касается оптимизации загрузок фтороформа, то его количество уменьшили до 1.05 экв., и он полностью расходуется, что было проверено мониторингом гидролизованных аликвот по 19F.
+
+
+	In 2018, the Kappe group built on the success of their flow synthesis of a-difluoromethyl-amino acids and developed a scalable continuous flow system for synthesis of D,L-a-difluoromethylornithine (eflornithine) from fluoroform (Fig. 17).37 Eflornithine is used in treatments of bacterial and parasitic infections and has potential anti-cancer activity as well. The previously encountered accumulation of inorganic solids inside the BPR was solved by using a BPR with a wider channel width and smaller dead volume, allowing a smooth flow and the amount of fluoroform used to decrease. A borosilicate static glass mixer plate replaced the second reactor in the previous system (Fig. 16) to further improve mixing while an acidic hydrolysis module was established and coupled to the system. Notably, the PFA tube used (1/8 in. o.d.; 0.8 mm i.d.) for the deprotection process was carefully evaluated to ensure it withstands the high temperature and high pressure applied. Stainless-steel reactor was usually used for high-temperature processes, but was not preferred here due to the corrosion by HCl. After a total residence time of about 23 minutes, ornithine methyl ester F was difluoromethylated and deprotected to give eflornithine hydrochloride monohydrate in 86% isolated yield (19.5 g, 24 mmol h1 ). Moreover, only 1.05 equiv. of fluoroform was used and it was fully consumed as determined by 19F NMR analysis.
+	
 
 ---
 
 ## FOOTNOTES
 
 [^1]: Köckinger, M., Ciaglia, T., Bersier, M., Hanselmann, P., Gutmann, B., & Kappe, C. O. (2018). Utilization of fluoroform for difluoromethylation in continuous flow: a concise synthesis of α-difluoromethyl-amino acids. Green Chemistry, 20(1), 108–112. [`[DOI]`](https://doi.org/10.1039/C7GC02913F) [`[PDF]`](/literature/c7gc02913f.pdf)
+
+[^2]: Wai Chung Fu et.al., Continuous flow strategies for using fluorinated greenhouse gases in fluoroalkylations, Chem. Soc. Rev., 2021, 50, 7378. [`[DOI]`](https://doi.org/10.1039/d0cs00670j) [`[PDF]`](/literature/d0cs00670j.pdf)
+
+[^3]: Köckinger, M., Hone, C. A., Gutmann, B., Hanselmann, P., Bersier, M., Torvisco, A., & Kappe, C. O. (2018). Scalable Continuous Flow Process for the Synthesis of Eflornithine using Fluoroform as Difluoromethyl Source. Organic Process Research & Development. [`[DOI]`](https://doi.org/10.1021/acs.oprd.8b00318) [`[PDF]`](/literature/10.1021@acs.oprd.8b00318.pdf) [`[SUPPORTING]`](/literature/op8b00318_si_001.pdf)
 
 
