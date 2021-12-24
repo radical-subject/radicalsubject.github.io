@@ -22,10 +22,6 @@ tags = ["difluorocarbene", "flow_chemistry", "active_pharmaceutical_substances"]
   footnote()
 }}
 
-```abstract
-Fluoroform (CHF3) can be considered as an ideal reagent for difluoromethylation reactions. However, due to the low reactivity of fluoroform, only very few applications have been reported so far. Herein we report a continuous flow difluoromethylation protocol on sp3 carbons employing fluoroform as a reagent. The protocol is applicable for the direct Cα-difluoromethylation of protected α-amino acids, and enables a highly atom efficient synthesis of the active pharmaceutical ingredient eflornithine.
-```
-
 `CF3H` был бы идеальным источником `CF2`, и, соответственно, реагентом для дифторметилирования, если бы не его низкая реакционная способность. 
 
 Он дешев, образуется в больших количествах как побочник при получении хлордифторметана в тефлоновой промышленности, и, из-за того что он в качестве парникового газа превосходит CO2 в 15к раз, его неэкологично просто так выпускать в окошко, значит нужно либо улавливать и хранить, либо *искать способы его вовлечь обратно в производство чего нибудь полезного*.
