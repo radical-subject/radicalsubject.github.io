@@ -69,13 +69,9 @@ tags = ["difluorocarbene", "flow_chemistry", "active_pharmaceutical_substances"]
 
 2 экв LiHMDS хватает чтобы депротонировать альфа положение аминокислоты в первой петле, и сгенерировать дифторкарбен из фтороформа в следующей. Время реакции 20 минут, фтороформа нужно 3 экв, процесс с точки зрения исходных реагентов очень атом-экономичен. Относительно существовавших ранее методов получения эфлорнитина прогресс значительный - выход 76% против 37-40% в пересчете на источник дифторкарбена.
 
-{% callout() %} 
-Что касается прочих использований фтороформа в проточных реакторах, не только по дифторметилированию, но и по трифторметилированию рекомендую толковый обзор 2021 года [^2]
-{% end %}
+Что касается прочих использований фтороформа в проточных реакторах, не только по дифторметилированию, но и по трифторметилированию рекомендую толковый обзор 2021 года: [^2]
 
 В том же году группа `Kappe` усовершенствовала техпроцесс для получения эфлорнитина в проточном режиме [^3]
-
-[^3]: Köckinger, M., Hone, C. A., Gutmann, B., Hanselmann, P., Bersier, M., Torvisco, A., & Kappe, C. O. (2018). Scalable Continuous Flow Process for the Synthesis of Eflornithine using Fluoroform as Difluoromethyl Source. Organic Process Research & Development. [`[DOI]`](https://doi.org/10.1021/acs.oprd.8b00318) [`[PDF]`](10.1021@acs.oprd.8b00318.pdf) [`[SUPPORTING]`](op8b00318_si_001.pdf)
 
 <!-- ![[Pasted image 20211224130802.png]] -->
 {{ 
@@ -105,12 +101,11 @@ tags = ["difluorocarbene", "flow_chemistry", "active_pharmaceutical_substances"]
 }}
 <p style="text-align: center">рис. 5. установка IRL</p>
 
-В модуле гидролиза действием HCl/microwave одновременно снимаются защита (шиффы на аминогруппах и метиловый эфир на кислоте), и получается эфлорнитина моногидрохлорид с выходом 86%. Что касается оптимизации загрузок фтороформа, то его количество уменьшили до 1.05 экв., и он полностью расходуется, что было проверено мониторингом гидролизованных аликвот по 19F.
+В модуле гидролиза действием HCl/microwave одновременно снимаются защита (шиффы на аминогруппах и метиловый эфир на кислоте), и получается эфлорнитина моногидрохлорид с выходом 86% (19.5 g., 24 mmol/h). Что касается оптимизации загрузок фтороформа, то его количество уменьшили до 1.05 экв., и он полностью расходуется, что было проверено мониторингом гидролизованных аликвот по 19F.
 
-
-	In 2018, the Kappe group built on the success of their flow synthesis of a-difluoromethyl-amino acids and developed a scalable continuous flow system for synthesis of D,L-a-difluoromethylornithine (eflornithine) from fluoroform (Fig. 17).37 Eflornithine is used in treatments of bacterial and parasitic infections and has potential anti-cancer activity as well. The previously encountered accumulation of inorganic solids inside the BPR was solved by using a BPR with a wider channel width and smaller dead volume, allowing a smooth flow and the amount of fluoroform used to decrease. A borosilicate static glass mixer plate replaced the second reactor in the previous system (Fig. 16) to further improve mixing while an acidic hydrolysis module was established and coupled to the system. Notably, the PFA tube used (1/8 in. o.d.; 0.8 mm i.d.) for the deprotection process was carefully evaluated to ensure it withstands the high temperature and high pressure applied. Stainless-steel reactor was usually used for high-temperature processes, but was not preferred here due to the corrosion by HCl. After a total residence time of about 23 minutes, ornithine methyl ester F was difluoromethylated and deprotected to give eflornithine hydrochloride monohydrate in 86% isolated yield (19.5 g, 24 mmol h1 ). Moreover, only 1.05 equiv. of fluoroform was used and it was fully consumed as determined by 19F NMR analysis.
-	
-
+{% callout() %} 
+В качестве растворителя в системе использовался модный в современной зеленой химии 2-Me-THF. Вообще 2-Me-THF и CPME это очень технологически крутые и перспер=ктивные растворители, на которые потихоньку все переходят, но дальнейшие детали о них заслуживают отдельного поста, так что не сегодня. Достаточно сказать, что в flow-химии 2-Me-THF и CPME - это два очень важных растворителя.
+{% end %} 
 ---
 
 ## FOOTNOTES
