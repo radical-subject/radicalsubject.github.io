@@ -22,6 +22,7 @@ You can find me on:
   - My contact: [@radical_subject]
   - Channel with my notes: [@scientific_impostor]
 - GitHub: [@radicalsubject]
+- e-mail: [ofedorov@pharm-sintez.ru]
 
 Computer sciences are my passion, though IT is not really connected with my work. 
 Previously i started to apply my coding skills to `chemoinformatics`, `ML` applications in chemistry, `docking` and `quantum mechanical calculations`, so i hope for some convergence of my skils in all of my expertise areas.
