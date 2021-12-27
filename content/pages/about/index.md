@@ -10,10 +10,13 @@ hide_page_meta = true
 
 I'm `PhD in organic chemistry` and a `Senior Scientist` (RUS: `ведущий научный сотрудник`) in Moscow-based full cycle pharmaceutical company `Pharm-Sintez`. 
 
+{% callout() %}
 Check out my [`CV (ENG)`](CV_Fedorov_OV_ENG_Full.pdf)
 <!-- Моё CV, полную версию, можно скачать здесь: [`CV (RUS)`](CV_Fedorov_OV_RUS_Full.pdf) -->
 
 <!-- For shorter version you may want to see my [`RESUME`]() -->
+{% end %}
+
 
 You can find me on:
 
