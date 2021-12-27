@@ -11,12 +11,8 @@ hide_page_meta = true
 I'm `PhD in organic chemistry` and a `Senior Scientist` (RUS: `ведущий научный сотрудник`) in Moscow-based full cycle pharmaceutical company `Pharm-Sintez`. 
 
 {% callout() %}
-Check out my [`CV (ENG)`](CV_Fedorov_OV_ENG_Full.pdf) (full english version)
-
-(RUS: Моё [`CV (RUS)`](CV_Fedorov_OV_RUS_Full.pdf) (полная русская версия))
-
+Check out my [`CV (ENG)`](CV_Fedorov_OV_ENG_Full.pdf) (RUS: [`CV (RUS)`](CV_Fedorov_OV_RUS_Full.pdf))
 <!-- For shorter version you may want to see my [`RESUME`]() -->
-
 {% end %}
 
 
@@ -62,7 +58,7 @@ Knowledge base is maintained by Zettelkasten method in great [`obsidian.md`]
   - My contact: [@radical_subject]
   - Channel with my notes: [@scientific_impostor]
 - GitHub: [@radicalsubject]
-- e-mail: ```ofedorov@pharm-sintez.ru```
+- e-mail: [ofedorov@pharm-sintez.ru]
 
 Do not hesitate to PM or contact me in other ways. I dont bite =) Cheers!
 
@@ -72,12 +68,13 @@ Do not hesitate to PM or contact me in other ways. I dont bite =) Cheers!
 
 If you are a recruiter, you are welcome to take a look at my [`CV (ENG)`](CV_Fedorov_OV_ENG_Full.pdf).
 
-ЕСли вы HR и ищете сотрудников, то моё CV - полную версию - можно скачать здесь: [`CV (RUS)`](CV_Fedorov_OV_RUS_Full.pdf)
+Если вы HR фармацевтической компании и ищете сотрудников, то предлагаю инициировать знакомство! Моё CV можно скачать здесь: [`CV (RUS)`](CV_Fedorov_OV_RUS_Full.pdf)
 
 <!-- For shorter version you may want to see my [`RESUME`]() -->
 
 [@radical_subject]: https://t.me/radical_subject
 [@scientific_impostor]: https://t.me/scientific_impostor
 [@radicalsubject]: https://github.com/radicalsubject
+[ofedorov@pharm-sintez.ru]: mailto:ofedorov@pharm-sintez.ru
 
 
