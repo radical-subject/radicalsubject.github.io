@@ -8,7 +8,7 @@ hide_page_meta = true
 
 Hello!
 
-I'm `PhD in organic chemistry` and work as `leading research associate` in Moscow-based full cycle pharmaceutical company `Pharm-Sintez`. 
+I'm `PhD in organic chemistry` and a `Senior Scientist` (RUS: `ведущий научный сотрудник`) in Moscow-based full cycle pharmaceutical company `Pharm-Sintez`. 
 
 
 Computer sciences are my passion, though IT is not really connected with my work. 
