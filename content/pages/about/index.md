@@ -60,16 +60,17 @@ Knowledge base is maintained by Zettelkasten method in great [`obsidian.md`]
   - My contact: [@radical_subject]
   - Channel with my notes: [@scientific_impostor]
 - GitHub: [@radicalsubject]
-- e-mail: ofedorov@pharm-sintez.ru
+- e-mail: ```ofedorov@pharm-sintez.ru```
 
-Do not hesitate to contact me. I dont bite =) Cheers!
+Do not hesitate to PM or contact me in other ways. I dont bite =) Cheers!
 
 ---
 
 ## Hire me!
 
 If you are a recruiter, you are welcome to take a look at my [`CV (ENG)`](CV_Fedorov_OV_ENG_Full.pdf).
-<!-- Моё CV, полную версию, можно скачать здесь: [`CV (RUS)`](CV_Fedorov_OV_RUS_Full.pdf) -->
+
+ЕСли вы HR и ищете сотрудников, то моё CV - полную версию - можно скачать здесь: [`CV (RUS)`](CV_Fedorov_OV_RUS_Full.pdf)
 
 <!-- For shorter version you may want to see my [`RESUME`]() -->
 
