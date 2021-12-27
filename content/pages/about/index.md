@@ -69,8 +69,7 @@ Do not hesitate to PM or contact me in other ways. I dont bite =) Cheers!
 
 If you are a recruiter, you are welcome to take a look at my [`CV (ENG)`](CV_Fedorov_OV_ENG_Full.pdf).
 
-Если вы HR фармацевтической компании, и ищете сотрудников, то предлагаю инициировать знакомство! 
-Моё CV можно скачать здесь: [`CV (RUS)`](CV_Fedorov_OV_RUS_Full.pdf)
+Если вы HR фармацевтической компании, и ищете сотрудников, то предлагаю инициировать знакомство! Моё CV можно скачать здесь: [`CV (RUS)`](CV_Fedorov_OV_RUS_Full.pdf)
 
 <!-- For shorter version you may want to see my [`RESUME`]() -->
 
