@@ -20,7 +20,7 @@ Check out my [`CV (ENG)`](CV_Fedorov_OV_ENG_Full.pdf)
 
 You can find me on:
 
-- Telegram
+- Telegram:
   - My contact: [@radical_subject]
   - Channel with my notes: [@scientific_impostor]
 - GitHub: [@radicalsubject]
@@ -60,12 +60,15 @@ Knowledge base is maintained by Zettelkasten method in great [`obsidian.md`]
   - My contact: [@radical_subject]
   - Channel with my notes: [@scientific_impostor]
 - GitHub: [@radicalsubject]
+- e-mail: ofedorov@pharm-sintez.ru
+
+Do not hesitate to contact me. I dont bite =) Cheers!
 
 ---
 
 ## Hire me!
 
-Check out my [`CV (ENG)`](CV_Fedorov_OV_ENG_Full.pdf)
+If you are a recruiter, you are welcome to take a look at my [`CV (ENG)`](CV_Fedorov_OV_ENG_Full.pdf).
 <!-- Моё CV, полную версию, можно скачать здесь: [`CV (RUS)`](CV_Fedorov_OV_RUS_Full.pdf) -->
 
 <!-- For shorter version you may want to see my [`RESUME`]() -->
@@ -74,4 +77,4 @@ Check out my [`CV (ENG)`](CV_Fedorov_OV_ENG_Full.pdf)
 [@scientific_impostor]: https://t.me/scientific_impostor
 [@radicalsubject]: https://github.com/radicalsubject
 
-Do not hesitate to contact me. Cheers!
+
