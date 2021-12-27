@@ -47,7 +47,11 @@ You can find me on:
 - GitHub: [@radicalsubject]
 
 ---
- Check out my [`CV`](CV_Fedorov_OV_ENG_Full.pdf)
+
+Check out my [`CV (ENG)`](CV_Fedorov_OV_ENG_Full.pdf)
+Моё CV, полную версию, можно скачать здесь: [`CV (RUS)`](CV_Fedorov_OV_RUS_Full.pdf)
+
+For shorter version you may want to see my [`RESUME`]()
 
 [@radical_subject]: https://t.me/radical_subject
 [@scientific_impostor]: https://t.me/scientific_impostor
