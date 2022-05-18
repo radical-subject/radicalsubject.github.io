@@ -1,4 +1,4 @@
-FROM myoung34/Github-runner
+FROM myoung34/github-runner
 
 # Install build dependencies
 RUN apt-get update && apt-get install -y cargo make libssl-dev g++
