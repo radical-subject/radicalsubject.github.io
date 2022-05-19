@@ -1,6 +1,5 @@
 version: "3.5"
 services:
-
   radicalsubject-nginx:
     image: nginx:1.12-alpine
     restart: always
@@ -13,20 +12,23 @@ services:
       - 'traefik.http.routers.radicalsubject.tls=true'
       - 'traefik.http.routers.radicalsubject.tls.certresolver=le'
     volumes:
-      - ./nginx:/etc/nginx/conf.d/
-      - ./deployment/radicalsubject.space/public/:/var/www
+      - public:/var/www
+      - ./deployment/radicalsubject.space/nginx:/etc/nginx/conf.d/
+      # - ./deployment/radicalsubject.space/public/:/var/www
     ports:
       - 80:80
 
   radicalsubject-zola:
-    image: ghcr.io/getzola/zola:v0.15.1
+    build: ./zola_container
     restart: always
-    workdir: /app
     volumes:
+      - public:/app/public
       - ./zola_container:/app
-      - '/var/run/docker.sock:/var/run/docker.sock'
-      - '/tmp/runner:/tmp/runner'
-
+      # - '/var/run/docker.sock:/var/run/docker.sock'
+      # - '/tmp/runner:/tmp/runner'
+    tty: true
+    depends_on:
+      - radicalsubject-nginx
   # github-runner:
   #   build: ./
   #   environment:
@@ -39,6 +41,8 @@ services:
   #     - '/var/run/docker.sock:/var/run/docker.sock'
   #     - '/tmp/runner:/tmp/runner'
 
+volumes:
+  public:
 networks:
   traefik-net:
     # external: true
