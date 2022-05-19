@@ -12,3 +12,5 @@ RUN mv target/x86_64-unknown-linux-gnu/release/zola /usr/bin
 # Go back to initial workdir to not break the base image
 WORKDIR /
 WORKDIR /actions-runner
+
+RUN zola build

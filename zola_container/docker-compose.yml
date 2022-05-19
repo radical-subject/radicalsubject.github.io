@@ -14,9 +14,18 @@ services:
       - 'traefik.http.routers.radicalsubject.tls.certresolver=le'
     volumes:
       - ./nginx:/etc/nginx/conf.d/
-      - ./public/:/var/www
+      - ./deployment/radicalsubject.space/public/:/var/www
     ports:
       - 80:80
+
+  radicalsubject-zola:
+    image: ghcr.io/getzola/zola:v0.15.1
+    restart: always
+    workdir: /app
+    volumes:
+      - ./zola_container:/app
+      - '/var/run/docker.sock:/var/run/docker.sock'
+      - '/tmp/runner:/tmp/runner'
 
   # github-runner:
   #   build: ./
