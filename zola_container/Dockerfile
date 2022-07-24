@@ -14,9 +14,9 @@ RUN mv target/x86_64-unknown-linux-gnu/release/zola /usr/bin
 WORKDIR /
 RUN mkdir /app
 COPY . /app
-WORKDIR /app
+# WORKDIR /app
 
-RUN zola build
+# RUN zola build
 
 # RUN apt-get install -y rsync grsync
 # RUN alias drsync="rsync -e 'docker exec -i'"
