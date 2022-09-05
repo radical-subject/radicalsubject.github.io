@@ -23,9 +23,9 @@ services:
     restart: always
     volumes:
       - public:/app
-      - ./zola_container:/app
-      - '/var/run/docker.sock:/var/run/docker.sock'
-      - '/tmp/runner:/tmp/runner'
+      # - ./zola_container:/app
+      # - '/var/run/docker.sock:/var/run/docker.sock'
+      # - '/tmp/runner:/tmp/runner'
     tty: true
     # depends_on:
     #   - radicalsubject-nginx
