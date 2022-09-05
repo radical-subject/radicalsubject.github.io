@@ -5,7 +5,7 @@ It a fork from waffle_lapkin repo.
 this is my [telegram channel], however telegram is terrible for writing long posts, so I've made this blog.
 You can read more about me on the [`/about`] page.
 
-[my]: https://github.com/radicalsubject
+[my]: https://github.com/radical-subject
 [telegram channel]: https://t.me/scientific_impostor
 [`/about`]: https://radicalsubject.github.io/about/
 

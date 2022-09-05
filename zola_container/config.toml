@@ -59,7 +59,7 @@ menu_items = [
     
     {name = "tags", url = "$BASE_URL/tags"},
 
-    {name = "source", url = "https://github.com/radicalsubject/radicalsubject.github.io", newtab = true},
+    {name = "source", url = "https://github.com/radical-subject/radicalsubject.github.io", newtab = true},
 ]
 
 # Whether to show links to earlier and later posts
