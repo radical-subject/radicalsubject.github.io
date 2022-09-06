@@ -8,12 +8,24 @@ services:
     labels:
       - "traefik.docker.network=web"
       - "traefik.enable=true"
-      - "traefik.basic.frontend.rule=Host:localhost"
-      - "traefik.basic.port=9000"
-      - "traefik.basic.protocol=http"
-      - "traefik.admin.frontend.rule=Host:localhost"
-      - "traefik.admin.protocol=https"
-      - "traefik.admin.port=9443"
+    #   - "traefik.basic.frontend.rule=Host:localhost"
+    #   - "traefik.basic.port=9000"
+    #   - "traefik.basic.protocol=http"
+    #   - "traefik.admin.frontend.rule=Host:localhost"
+    #   - "traefik.admin.protocol=https"
+    #   - "traefik.admin.port=9443"
+
+    # labels:
+      # http with redirection
+      - traefik.http.middlewares.redirect-middleware.redirectscheme.scheme=https
+      - traefik.http.routers.web-router.entrypoints=web
+      - traefik.http.routers.web-router.rule=Host(`radicalsubject.space`)
+      - traefik.http.routers.web-router.middlewares=redirect-middleware
+      # https
+      - traefik.http.routers.websecure-router.entrypoints=websecure
+      - traefik.http.routers.websecure-router.tls=true
+      - traefik.http.routers.websecure-router.rule=Host(`radicalsubject.space`)
+
     # labels:
     #   - 'traefik.enable=true'
     #   - 'traefik.http.routers.radicalsubject.rule=Host(`radicalsubject.space`)'
@@ -25,7 +37,7 @@ services:
       # - ./deployment/radicalsubject.space/public:/var/www
       - vol:/var/www
     expose:
-      - "9000"
+      - "80"
 
     # ports:
     #   - 80:80

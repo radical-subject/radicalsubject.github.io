@@ -1,0 +1,4 @@
+tls:
+  certificates:
+    - certFile: ./certs/radicalsubject.space.csr
+    - keyFile: ./certs/radicalsubject.space.key
