@@ -44,7 +44,7 @@ services:
     #   - radicalsubject-nginx
     # ports:
     #   - 8080:8080
-    # command: zola serve --interface 0.0.0.0 --port 8080 --base-url localhost
+    command: zola serve --interface 0.0.0.0 --port 80 --base-url radicalsubject.space
 
   # github-runner:
   #   build: ./
