@@ -6,6 +6,7 @@ services:
     restart: always
     command:
       - "--providers.docker=true"
+      - "--api.insecure=true --providers.docker"
       - "--providers.docker.exposedbydefault=false"
       - "--entrypoints.web.address=:80"
       - "--entrypoints.websecure.address=:443"
@@ -21,6 +22,7 @@ services:
     ports:
       - "443:443"
       - "80:80"
+      - "8080:8080"
     volumes:
       - proxy-data:/letsencrypt
       - /var/run/docker.sock:/var/run/docker.sock:ro
