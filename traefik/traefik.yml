@@ -1,4 +1,4 @@
 tls:
   certificates:
-    - certFile: ./certs/radicalsubject.space.csr
+    - certFile: ./certs/cert.cer
     - keyFile: ./certs/radicalsubject.space.key
