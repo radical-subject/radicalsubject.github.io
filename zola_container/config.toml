@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://radicalsubject.space"
+base_url = "/"
 title = "A Certain Scientific Impostor"
 
 # Whether to automatically compile all Sass files in the sass directory
@@ -51,13 +51,13 @@ menu_items = [
     #{name = "blog", url = "$BASE_URL"},
         
     # # May be desired in future
-    #{name = "archive", url = "$BASE_URL/archive"},
+    #{name = "archive", url = "$BASE_URL/localhost/archive"},
 
-    {name = "about", url = "$BASE_URL/about"},
+    {name = "about", url = "$BASE_URL/localhost/about"},
 
-    {name = "publications", url = "$BASE_URL/publications"},
+    {name = "publications", url = "$BASE_URL/localhost/publications"},
     
-    {name = "tags", url = "$BASE_URL/tags"},
+    {name = "tags", url = "$BASE_URL/localhost/tags"},
 
     {name = "source", url = "https://github.com/radical-subject/radicalsubject.github.io", newtab = true},
 ]
@@ -78,3 +78,8 @@ use_full_hack_font = true
 
 favicon = "/coding_girl_128x128.png"
 favicon_mimetype = "image/png"
+
+
+# !!!!!! careful with using nginx + base_url. if u use nginx, base url should be / and links in menu items should be updated with /*host*/
+# also for reloading of volume use 
+# docker-compose down && docker volume rm movedradicalsubjectgithubio_vol && docker-compose up --build

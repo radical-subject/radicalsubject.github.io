@@ -19,12 +19,13 @@ COPY . /app
 WORKDIR /app
 
 RUN zola build
-RUN zola serve --interface 0.0.0.0 --port 8080 --base-url localhost
+
+# RUN zola serve --interface 0.0.0.0 --port 8080 --base-url localhost
 # RUN apt-get install -y rsync grsync
-# RUN alias drsync="rsync -e 'docker exec -i'"
+# RUN alias rsync="rsync -e 'docker exec -i'"
 # Now, you can use rsync with containers as if they are remote machines:
 
-# RUN rsync -r radicalsubject-nginx:/var/www/ ./public
+# RUN rsync -e 'docker exec -i' -r radicalsubject-nginx:/var/www/ ./public
 # # Go back to initial workdir to not break the base image
 # WORKDIR /
 # WORKDIR /actions-runner

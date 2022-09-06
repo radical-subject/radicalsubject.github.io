@@ -4,33 +4,46 @@ services:
     image: nginx:1.12-alpine
     restart: always
     networks:
-      - traefik-net
+      - web
     labels:
-      - 'traefik.enable=true'
-      - 'traefik.http.routers.radicalsubject.rule=Host(`radicalsubject.space`)'
-      - 'traefik.http.routers.radicalsubject.entrypoints=websecure'
-      - 'traefik.http.routers.radicalsubject.tls=true'
-      - 'traefik.http.routers.radicalsubject.tls.certresolver=le'
+      - "traefik.docker.network=web"
+      - "traefik.enable=true"
+      - "traefik.basic.frontend.rule=Host:localhost"
+      - "traefik.basic.port=9000"
+      - "traefik.basic.protocol=http"
+      - "traefik.admin.frontend.rule=Host:localhost"
+      - "traefik.admin.protocol=https"
+      - "traefik.admin.port=9443"
+    # labels:
+    #   - 'traefik.enable=true'
+    #   - 'traefik.http.routers.radicalsubject.rule=Host(`radicalsubject.space`)'
+    #   - 'traefik.http.routers.radicalsubject.entrypoints=websecure'
+    #   - 'traefik.http.routers.radicalsubject.tls=true'
+    #   - 'traefik.http.routers.radicalsubject.tls.certresolver=le'
     volumes:
-      - public:/var/www
       - ./deployment/radicalsubject.space/nginx:/etc/nginx/conf.d/
-      # - ./deployment/radicalsubject.space/public/:/var/www
-    ports:
-      - 80:80
+      # - ./deployment/radicalsubject.space/public:/var/www
+      - vol:/var/www
+    expose:
+      - "9000"
+
+    # ports:
+    #   - 80:80
 
   radicalsubject-zola:
     build: ./zola_container
     restart: always
     volumes:
-      - public:/app
+      - vol:/app/public
       # - ./zola_container:/app
       # - '/var/run/docker.sock:/var/run/docker.sock'
       # - '/tmp/runner:/tmp/runner'
     tty: true
-    # depends_on:
-    #   - radicalsubject-nginx
+    depends_on:
+      - radicalsubject-nginx
     ports:
       - 8080:8080
+    command: zola serve --interface 0.0.0.0 --port 8080 --base-url localhost
 
   # github-runner:
   #   build: ./
@@ -45,8 +58,8 @@ services:
   #     - '/tmp/runner:/tmp/runner'
 
 volumes:
-  public:
+  vol:
 networks:
-  traefik-net:
-    # external: true
+  web:
+    external: true
 
