@@ -10,8 +10,8 @@ hide_page_meta = true
 My name is Oleg V. Fedorov.
 
 
-<div style='display: flex; border-radius: 8px; width: 90%; background-color: white; padding: 5px; margin: auto;'>
-  <div style='flex: 40%;'>
+<div style='display: flex; border-radius: 8px; width: 90%; background-color: black; padding: 5px; margin: auto;'>
+  <div style='flex: 35%;'>
 
   {{ 
     image(
@@ -22,9 +22,9 @@ My name is Oleg V. Fedorov.
   }}
 
   </div>
-  <div style='flex: 55%;'>
+  <div style='flex: 65%;'>
 
-  I am `PhD in organic chemistry` (2018) and 
+  I am `PhD in organic chemistry` (2018) and:
 
   - `Senior Researcher` (RUS: `старший научный сотрудник`), Laboratory of Simple Systems, at [`Scientific Research Institute for Systems Biology and Medicine`], Moscow 
 
