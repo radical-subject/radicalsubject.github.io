@@ -10,14 +10,14 @@ hide_page_meta = true
 My name is Oleg V. Fedorov.
 
 
-<div style='display: flex; border-radius: 8px; width: 90%; background-color: black; padding: 5px; margin: auto;'>
+<div style='display: flex; border-radius: 8px; width: 90%; padding: 5px; margin: auto;'>
   <div style='flex: 35%;'>
 
   {{ 
     image(
         img="0078 (2).jpg", 
         alt="my photo", 
-        style="border-radius: 8px; width: 50%;"
+        style="border-radius: 8px; width: 99%;"
     )
   }}
 
