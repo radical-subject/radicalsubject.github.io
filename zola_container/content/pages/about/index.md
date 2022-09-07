@@ -8,22 +8,33 @@ hide_page_meta = true
 
 ## Hello!
 My name is Oleg V. Fedorov.
-{{ 
-  image(
-      img="0078 (2).jpg", 
-      alt="my photo", 
-      style="border-radius: 8px; width: 50%;"
-  )
-}}
-I am `PhD in organic chemistry` (2018) and 
 
-- `Senior Researcher` (RUS: `старший научный сотрудник`), Laboratory of Simple Systems, at [`Scientific Research Institute for Systems Biology and Medicine`], Moscow 
+<div class="row">
 
-[`Scientific Research Institute for Systems Biology and Medicine`]: https://sysbiomed.ru/
+  <div class="column">
+  {{ 
+    image(
+        img="0078 (2).jpg", 
+        alt="my photo", 
+        style="border-radius: 8px; width: 50%;"
+    )
+  }}
+  </div>
+  I am `PhD in organic chemistry` (2018) and 
 
-- `Senior Scientist` (RUS: `ведущий научный сотрудник`) at Moscow-based full cycle pharmaceutical company [`Pharm-Sintez`]. 
+  - `Senior Researcher` (RUS: `старший научный сотрудник`), Laboratory of Simple Systems, at [`Scientific Research Institute for Systems Biology and Medicine`], Moscow 
 
-[`Pharm-Sintez`]: https://pharm-sintez.ru/
+  [`Scientific Research Institute for Systems Biology and Medicine`]: https://sysbiomed.ru/
+
+  - `Senior Scientist` (RUS: `ведущий научный сотрудник`) at Moscow-based full cycle pharmaceutical company [`Pharm-Sintez`]. 
+
+  [`Pharm-Sintez`]: https://pharm-sintez.ru/
+  <div class="column">
+
+  </div>
+</div>
+
+
 
 {% callout() %}
 Check out my [`CV (ENG)`](CV_Fedorov_OV_ENG_Full.pdf) (RUS: [`CV (RUS)`](CV_Fedorov_OV_RUS_Full.pdf))
