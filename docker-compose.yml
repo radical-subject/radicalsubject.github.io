@@ -33,6 +33,7 @@ services:
       - volum:/var/www/radicalsubject.space/
     ports:
       - 80:80
+      - 443:443
 
   # whoami:
   #   # A container that exposes an API to show its IP address
