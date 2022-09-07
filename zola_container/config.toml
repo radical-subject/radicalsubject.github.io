@@ -1,6 +1,6 @@
 # The URL the site will be built for
-# base_url = "/"
-base_url = "radicalsubject.space"
+base_url = "/"
+# base_url = "radicalsubject.space"
 title = "A Certain Scientific Impostor"
 
 # Whether to automatically compile all Sass files in the sass directory
