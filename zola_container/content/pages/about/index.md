@@ -10,7 +10,7 @@ hide_page_meta = true
 My name is Oleg V. Fedorov.
 
 
-<div style='display: flex; border-radius: 8px; width: 90%; padding: 5px; margin: auto;'>
+<div style='display: flex; border-radius: 8px; width: 99%; padding: 4px; margin: auto;'>
   <div style='flex: 35%;'>
 
   {{ 
@@ -24,7 +24,7 @@ My name is Oleg V. Fedorov.
   </div>
   <div style='flex: 65%;'>
 
-  I am `PhD in organic chemistry` (2018) and:
+    I am `PhD in organic chemistry` (2018) and:
 
   - `Senior Researcher` (RUS: `старший научный сотрудник`), Laboratory of Simple Systems, at [`Scientific Research Institute for Systems Biology and Medicine`], Moscow 
 
@@ -54,7 +54,6 @@ You can find me on:
 
 Computer sciences are my passion, though IT is not really connected with my work. 
 Previously i started to apply my coding skills to `chemoinformatics`, `ML` applications in chemistry, `docking` and `quantum mechanical calculations`, so i hope for some convergence of my skils in all of my expertise areas.
-
 
 I also like extreme sports and music.
 Check out our trip to Iran in 2015-2016:
