@@ -1,5 +1,6 @@
 # The URL the site will be built for
-base_url = "/"
+# base_url = "/"
+base_url = "radicalsubject.space"
 title = "A Certain Scientific Impostor"
 
 # Whether to automatically compile all Sass files in the sass directory
@@ -49,15 +50,16 @@ background_color = "dark"
 menu_items = [
     # $BASE_URL is going to be substituted by base_url from configuration
     #{name = "blog", url = "$BASE_URL"},
-        
-    # # May be desired in future
-    #{name = "archive", url = "$BASE_URL/localhost/archive"},
-
-    {name = "about", url = "$BASE_URL/localhost/about"},
-
-    {name = "publications", url = "$BASE_URL/localhost/publications"},
     
-    {name = "tags", url = "$BASE_URL/localhost/tags"},
+    # insert /localhost
+    # # May be desired in future
+    #{name = "archive", url = "$BASE_URL/archive"},
+
+    {name = "about", url = "$BASE_URL/about"},
+
+    {name = "publications", url = "$BASE_URL/publications"},
+    
+    {name = "tags", url = "$BASE_URL/tags"},
 
     {name = "source", url = "https://github.com/radical-subject/radicalsubject.github.io", newtab = true},
 ]
