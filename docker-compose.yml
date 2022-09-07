@@ -56,10 +56,11 @@ services:
 volumes:
   vol:
   # proxy-data:
-# networks:
-#   web:
-#     external: true
+networks:
+  web:
+    external: true
 
+# docker network create web
 
 
   
