@@ -7,8 +7,23 @@ hide_page_meta = true
 +++
 
 ## Hello!
+My name is Oleg V. Fedorov.
+{{ 
+  image(
+      img="0078 (2).jpg", 
+      alt="my photo", 
+      style="border-radius: 8px; width: 50%;"
+  )
+}}
+I am `PhD in organic chemistry` (2018) and 
 
-I'm `PhD in organic chemistry` and a `Senior Scientist` (RUS: `ведущий научный сотрудник`) in Moscow-based full cycle pharmaceutical company `Pharm-Sintez`. 
+- `Senior Researcher` (RUS: `старший научный сотрудник`), Laboratory of Simple Systems, at [`Scientific Research Institute for Systems Biology and Medicine`], Moscow 
+
+[`Scientific Research Institute for Systems Biology and Medicine`]: https://sysbiomed.ru/
+
+- `Senior Scientist` (RUS: `ведущий научный сотрудник`) at Moscow-based full cycle pharmaceutical company [`Pharm-Sintez`]. 
+
+[`Pharm-Sintez`]: https://pharm-sintez.ru/
 
 {% callout() %}
 Check out my [`CV (ENG)`](CV_Fedorov_OV_ENG_Full.pdf) (RUS: [`CV (RUS)`](CV_Fedorov_OV_RUS_Full.pdf))
@@ -67,6 +82,7 @@ Do not hesitate to PM or contact me in other ways. I dont bite =) Cheers!
 
 ## HIRE ME!
 
+Considering relocation (China, EU, Canada). 
 If you are a recruiter, you are welcome to take a look at my [`CV (ENG)`](CV_Fedorov_OV_ENG_Full.pdf).
 
 Если вы HR фармацевтической компании, и ищете сотрудников, то предлагаю инициировать знакомство! Моё CV можно скачать здесь: [`CV (RUS)`](CV_Fedorov_OV_RUS_Full.pdf)

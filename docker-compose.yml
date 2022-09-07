@@ -61,5 +61,5 @@ networks:
   web:
     external: true
 
-# docker network create web
+# do not forget: docker network create web
 
