@@ -37,6 +37,7 @@ My name is Oleg V. Fedorov.
   </div>
 </div>
 
+</br>
 
 {% callout() %}
 Check out my [`CV (ENG)`](CV_Fedorov_OV_ENG_Full.pdf) (RUS: [`CV (RUS)`](CV_Fedorov_OV_RUS_Full.pdf))
