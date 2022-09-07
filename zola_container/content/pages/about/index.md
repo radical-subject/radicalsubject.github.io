@@ -24,7 +24,7 @@ My name is Oleg V. Fedorov.
   </div>
   <div style='flex: 65%;'>
 
-    I am `PhD in organic chemistry` (2018) and:
+   I am `PhD in organic chemistry` (2018) and:
 
   - `Senior Researcher` (RUS: `старший научный сотрудник`), Laboratory of Simple Systems, at [`Scientific Research Institute for Systems Biology and Medicine`], Moscow 
 
