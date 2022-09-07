@@ -52,14 +52,15 @@ menu_items = [
     #{name = "blog", url = "$BASE_URL"},
     
     # insert /localhost
-    # # May be desired in future
-    #{name = "archive", url = "$BASE_URL/archive"},
-
-    {name = "about", url = "$BASE_URL/about"},
-
-    {name = "publications", url = "$BASE_URL/publications"},
     
-    {name = "tags", url = "$BASE_URL/tags"},
+    # # May be desired in future
+    #{name = "archive", url = "$BASE_URL/radicalsubject.space/archive"},
+
+    {name = "about", url = "$BASE_URL/radicalsubject.space/about"},
+
+    {name = "publications", url = "$BASE_URL/radicalsubject.space/publications"},
+    
+    {name = "tags", url = "$BASE_URL/radicalsubject.space/tags"},
 
     {name = "source", url = "https://github.com/radical-subject/radicalsubject.github.io", newtab = true},
 ]

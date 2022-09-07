@@ -4,7 +4,7 @@ services:
     build: ./zola_container
     restart: always
     volumes:
-      - vol:/app/public
+      - volum:/app/public
       # - ./zola_container:/app
       # - '/var/run/docker.sock:/var/run/docker.sock'
       # - '/tmp/runner:/tmp/runner'
@@ -30,7 +30,7 @@ services:
       - ./deployment/radicalsubject.space/nginx:/etc/nginx/conf.d/
       - ./deployment/radicalsubject.space/ssl:/etc/nginx/ssl/radicalsubject.space/
       # - ./deployment/radicalsubject.space/public:/var/www
-      - vol:/var/www/radicalsubject.space/
+      - volum:/var/www/radicalsubject.space/
     ports:
       - 80:80
 
@@ -54,7 +54,7 @@ services:
   #     - '/tmp/runner:/tmp/runner'
 
 volumes:
-  vol:
+  volum:
   # proxy-data:
 networks:
   web:
