@@ -17,9 +17,9 @@ services:
       - 'traefik.http.routers.radicalsubject.tls.certresolver=le'
     depends_on:
       - radicalsubject-nginx
-    ports:
-      - 8080:8080
-    command: zola serve --interface 0.0.0.0 --port 8080 --base-url localhost
+    # ports:
+    #   - 8080:8080
+    # command: zola serve --interface 0.0.0.0 --port 8080 --base-url localhost
 
   radicalsubject-nginx:
     image: nginx:1.12-alpine
@@ -62,9 +62,3 @@ networks:
 
 # docker network create web
 
-  # location / {
-  #   root /var/www/radicalsubject.space/;
-  #   default_type application/json;
-  #   add_header Access-Control-Allow-Origin  *;
-  # }
-  
