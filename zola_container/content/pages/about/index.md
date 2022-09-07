@@ -20,6 +20,8 @@ My name is Oleg V. Fedorov.
     )
   }}
   </div>
+
+  <div class="column">
   I am `PhD in organic chemistry` (2018) and 
 
   - `Senior Researcher` (RUS: `старший научный сотрудник`), Laboratory of Simple Systems, at [`Scientific Research Institute for Systems Biology and Medicine`], Moscow 
@@ -29,9 +31,8 @@ My name is Oleg V. Fedorov.
   - `Senior Scientist` (RUS: `ведущий научный сотрудник`) at Moscow-based full cycle pharmaceutical company [`Pharm-Sintez`]. 
 
   [`Pharm-Sintez`]: https://pharm-sintez.ru/
-  <div class="column">
-
   </div>
+  
 </div>
 
 
