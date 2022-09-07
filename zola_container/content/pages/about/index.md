@@ -17,7 +17,7 @@ My name is Oleg V. Fedorov.
     image(
         img="0078 (2).jpg", 
         alt="my photo", 
-        style="border-radius: 8px; width: 99%;"
+        style="border-radius: 50%; width: 99%;"
     )
   }}
 
