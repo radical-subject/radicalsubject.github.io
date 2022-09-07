@@ -9,9 +9,10 @@ hide_page_meta = true
 ## Hello!
 My name is Oleg V. Fedorov.
 
-<div class="row">
 
-  <div class="column">
+<div style='display: flex; border-radius: 8px; width: 90%; background-color: white; padding: 5px; margin: auto;'>
+  <div style='flex: 40%;'>
+
   {{ 
     image(
         img="0078 (2).jpg", 
@@ -19,9 +20,10 @@ My name is Oleg V. Fedorov.
         style="border-radius: 8px; width: 50%;"
     )
   }}
-  </div>
 
-  <div class="column">
+  </div>
+  <div style='flex: 55%;'>
+
   I am `PhD in organic chemistry` (2018) and 
 
   - `Senior Researcher` (RUS: `старший научный сотрудник`), Laboratory of Simple Systems, at [`Scientific Research Institute for Systems Biology and Medicine`], Moscow 
@@ -31,10 +33,9 @@ My name is Oleg V. Fedorov.
   - `Senior Scientist` (RUS: `ведущий научный сотрудник`) at Moscow-based full cycle pharmaceutical company [`Pharm-Sintez`]. 
 
   [`Pharm-Sintez`]: https://pharm-sintez.ru/
-  </div>
-  
-</div>
 
+  </div>
+</div>
 
 
 {% callout() %}
