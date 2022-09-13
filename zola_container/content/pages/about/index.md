@@ -10,7 +10,7 @@ hide_page_meta = true
 My name is Oleg V. Fedorov.
 
 
-<div style='display: flex; border-radius: 8px; width: 99%; padding: 4px; margin: auto;'>
+<!-- <div style='display: flex; border-radius: 8px; width: 99%; padding: 4px; margin: auto;'>
   <div style='flex: 35%;'>
 
   {{ 
@@ -37,14 +37,14 @@ My name is Oleg V. Fedorov.
   [`Pharm-Sintez`]: https://pharm-sintez.ru/
 
   </div>
-</div>
+</div> -->
 
 <div style='-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-width: 200px; -moz-column-width: 200px; column-width: 200px;'>
   {{ 
     image(
         img="0078 (2).jpg", 
         alt="my photo", 
-        style="border-radius: 50%; width: 150px;"
+        style="border-radius: 50%; width: 99%;"
     )
   }}
 
