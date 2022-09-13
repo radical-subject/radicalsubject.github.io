@@ -24,17 +24,29 @@ My name is Oleg V. Fedorov.
   </div>
   <div style='flex: 65%;'>
 
-   I am `PhD in organic chemistry` (2018) and:
+   I am [`PhD in organic chemistry`] (2018) and:
 
-  - `Senior Researcher` (RUS: `старший научный сотрудник`), Laboratory of Simple Systems, at [`Scientific Research Institute for Systems Biology and Medicine`], Moscow 
+   [`PhD in organic chemistry`]: http://zioc.ru/files/%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B0%D1%82_%D0%A4%D0%B5%D0%B4%D0%BE%D1%80%D0%BE%D0%B2.pdf
+
+  - 2022-present `Senior Researcher` (RUS: `старший научный сотрудник`), Laboratory of Simple Systems, at [`Scientific Research Institute for Systems Biology and Medicine`], Moscow 
 
   [`Scientific Research Institute for Systems Biology and Medicine`]: https://sysbiomed.ru/
 
-  - `Senior Scientist` (RUS: `ведущий научный сотрудник`) at Moscow-based full cycle pharmaceutical company [`Pharm-Sintez`]. 
+  - 2019-2022 `Senior Scientist` (RUS: `ведущий научный сотрудник`) at Moscow-based full cycle pharmaceutical company [`Pharm-Sintez`]. 
 
   [`Pharm-Sintez`]: https://pharm-sintez.ru/
 
   </div>
+</div>
+
+<div style='-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-width: 200px; -moz-column-width: 200px; column-width: 200px;'>
+At noon they sat down by the roadside, near a little brook, and Dorothy opened her basket and got out some bread. She offered a piece to the Scarecrow, but he refused.
+
+“I am never hungry,” he said, “and it is a lucky thing I am not, for my mouth is only painted, and if I should cut a hole in it so I could eat, the straw I am stuffed with would come out, and that would spoil the shape of my head.”
+
+Dorothy saw at once that this was true, so she only nodded and went on eating her bread.
+
+“Tell me something about yourself and the country you came from,” said the Scarecrow, when she had finished her dinner. So she told him all about Kansas, and how gray everything was there, and how the cyclone had carried her to this queer Land of Oz.
 </div>
 
 </br>
@@ -51,7 +63,7 @@ You can find me on:
   - My contact: [@radical_subject]
   - Channel with my notes: [@scientific_impostor]
 - GitHub: [@radicalsubject]
-- e-mail: [ofedorov@pharm-sintez.ru]
+- e-mail: [o.fedorov@sysbiomed.ru], [ofedorov@pharm-sintez.ru]
 
 Computer sciences are my passion, though IT is not really connected with my work. 
 Previously i started to apply my coding skills to `chemoinformatics`, `ML` applications in chemistry, `docking` and `quantum mechanical calculations`, so i hope for some convergence of my skils in all of my expertise areas.
