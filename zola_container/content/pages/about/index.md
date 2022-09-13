@@ -132,5 +132,6 @@ If you are a recruiter, you are welcome to take a look at my [`CV (ENG)`](CV_Fed
 [@scientific_impostor]: https://t.me/scientific_impostor
 [@radicalsubject]: https://github.com/radicalsubject
 [ofedorov@pharm-sintez.ru]: mailto:ofedorov@pharm-sintez.ru
+[o.fedorov@sysbiomed.ru]: mailto:o.fedorov@sysbiomed.ru
 
 
