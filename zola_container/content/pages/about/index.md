@@ -85,7 +85,7 @@ Check out our trip to Iran in 2015-2016:
 {{
   youtube(
     id="X_cl__uvtGM"
-    style="margin: auto; border-radius: 8px; width: 100%; height: 480px; align='center'"
+    style="margin: auto; border-radius: 8px; width:80%; height: 480px; align='center'"
   )
 }}
 
@@ -100,7 +100,7 @@ Knowledge base is maintained by Zettelkasten method in great [`obsidian.md`]
   image(
       img="2021-08-07_16-47-42.jpg", 
       alt="fluorescence of some organic photoredox catalists i worked with in previous lab.", 
-      style="border-radius: 8px; width: 80%;"
+      style="border-radius: 8px; width: 75%;"
   )
 }}
 
