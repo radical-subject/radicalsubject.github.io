@@ -16,3 +16,15 @@ The site is built using [Zola] and is hosted using github pages. The theme is [`
 [Zola]: https://www.getzola.org/
 [`terminimal`]: https://github.com/pawroman/zola-theme-terminimal
 
+## 
+
+the site was hosted on GH pages, but GH blocked me for being russian. so i moved everything except codebase to my server, but CI/CD pipeline was brocken, so as SSL/TLS certificaton.
+
+imoved to my domain radicalsubject.space
+SSL was added by nginx, traefik was unsucsessful
+
+until CI/CD pipeline is fixed, site is reloaded with 
+
+    git fetch && git pull && docker-compose down && docker volume rm $(docker volume ls -q) && docker-compose up --build -d
+
+command.
